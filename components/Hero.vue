@@ -8,10 +8,10 @@
         </p>
         <p
           class="text-gray-800 text-lg pb-4 leading-snug"
-        >Sie benötigen individuelle Beratung für Ihre geplante Finanzierung? Auf dieser Webseite erhalten Sie Informationen rund um die Themen Finanzierung, Finanzieren ohne Eigenkapital und Privatkredite.</p>
+        >Sie benötigen individuelle Beratung für Ihre geplante Finanzierung? Als unabhängiger Finanzierungsspezialist bin ich Ihr Partner rund um die Themen Finanzierung, Finanzieren ohne Eigenkapital und Privatkredite.</p>
         <p class="text-gray-800 text-lg pb-6">Ich bin gerne für Sie da.</p>
         <button
-          class="bg-red-700 hover:bg-red-500 text-white font-bold py-2 px-4 rounded"
+          class="bg-red-700 hover:bg-red-600 text-white font-bold py-2 px-4 rounded"
         >Anfrage stellen</button>
       </section>
     </div>
