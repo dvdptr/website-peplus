@@ -3,6 +3,7 @@
     <Header />
     <Hero />
     <About />
+    <Leistungen />
     <Netzwerk />
     <Kontakt />
     <Footer />
@@ -16,6 +17,7 @@ import About from "~/components/About.vue";
 import Netzwerk from "~/components/Netzwerk.vue";
 import Kontakt from "~/components/Kontakt.vue";
 import Footer from "~/components/Footer.vue";
+import Leistungen from "~/components/Leistungen.vue";
 
 export default {
   components: {
@@ -24,7 +26,8 @@ export default {
     About,
     Netzwerk,
     Kontakt,
-    Footer
+    Footer,
+    Leistungen
   }
 };
 </script>
