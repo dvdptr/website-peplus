@@ -1,6 +1,6 @@
 <template>
   <div>
-    <section class="border-b border-gray-400">
+    <section class="border-b border-gray-400 pb-12">
       <Headline :title="title" :subtitle="subtitle" />
     </section>
   </div>
