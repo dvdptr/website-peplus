@@ -19,7 +19,7 @@ export default {
       {
         rel: "stylesheet",
         href:
-          "https://fonts.googleapis.com/css2?family=Inter:wght@100;400;700&display=swap"
+          "https://fonts.googleapis.com/css2?family=Inter:wght@100;400;500;700&display=swap"
       }
     ]
   },

@@ -1,6 +1,6 @@
 <template>
   <div>
-    <section class="border-b border-gray-400">Header Section</section>
+    <section class="text-2xl border-b border-gray-400">Partner Netzwerk Section</section>
   </div>
 </template>
 

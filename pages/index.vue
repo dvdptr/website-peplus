@@ -1,15 +1,31 @@
 <template>
-  <div class="font-bold text-2xl">
-    <h1>Headline Test Inter-Font</h1>
-    <header />
+  <div class="font-medium">
+    <Header />
+    <Hero />
+    <About />
+    <Netzwerk />
+    <Kontakt />
+    <Footer />
   </div>
 </template>
 
 <script>
-import Header from "~components/Header.vue";
+import Header from "~/components/Header.vue";
+import Hero from "~/components/Hero.vue";
+import About from "~/components/About.vue";
+import Netzwerk from "~/components/Netzwerk.vue";
+import Kontakt from "~/components/Kontakt.vue";
+import Footer from "~/components/Footer.vue";
 
 export default {
-  components: { Header }
+  components: {
+    Header,
+    Hero,
+    About,
+    Netzwerk,
+    Kontakt,
+    Footer
+  }
 };
 </script>
 
