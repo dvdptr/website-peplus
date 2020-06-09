@@ -1,5 +1,5 @@
 <template>
-  <div class="border-b border-gray-400 flex py-12 justify-between items-center">
+  <div class="border-b border-gray-400 flex py-12 justify-around items-center">
     <div class="w-5/12">
       <section>
         <p class="text-5xl font-bold leading-tight pb-4">
