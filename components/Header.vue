@@ -1,9 +1,9 @@
 <template>
-  <div>
+  <div class="flex justify-between border-b border-gray-400 py-8">
     <div>
       <Logo class="h-10" />
     </div>
-    <section class="border-b border-gray-400">Header Section</section>
+    <section class="flex items-center">Nav</section>
   </div>
 </template>
 

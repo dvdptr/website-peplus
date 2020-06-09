@@ -1,11 +1,25 @@
 <template>
   <div>
-    <section class="text-2xl border-b border-gray-400">Partner Netzwerk Section</section>
+    <section class="text-2xl border-b border-gray-400">
+      <Headline :title="title" :subtitle="subtitle" />
+    </section>
   </div>
 </template>
 
 <script>
-export default {};
+import Headline from "@/components/elements/Headline.vue";
+
+export default {
+  components: {
+    Headline
+  },
+  data() {
+    return {
+      title: "Partner im Netzwerk",
+      subtitle: "Überblick der Partner"
+    };
+  }
+};
 </script>
 
 <style>
