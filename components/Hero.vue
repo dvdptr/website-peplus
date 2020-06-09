@@ -1,6 +1,25 @@
 <template>
-  <div class="bg-white">
-    <section class="border-b border-gray-400">Hero Section</section>
+  <div class="border-b border-gray-400 flex py-12 justify-between items-center">
+    <div class="w-5/12">
+      <section>
+        <p class="text-5xl font-bold leading-tight pb-4">
+          Finanzierung
+          <br />leicht gemacht.
+        </p>
+        <p
+          class="text-gray-800 pb-4"
+        >Individuelle Beratung und optimale Lösungsvorschläge für Ihre Finanzierung.</p>
+        <p class="text-gray-800 pb-6">Ich bin gerne für Sie da.</p>
+        <button
+          class="bg-red-700 hover:bg-red-500 text-white font-bold py-2 px-4 rounded"
+        >Anfrage stellen</button>
+      </section>
+    </div>
+    <div class="w-5/12">
+      <section>
+        <div class="bg-blue-200 w-full h-64"></div>
+      </section>
+    </div>
   </div>
 </template>
 
