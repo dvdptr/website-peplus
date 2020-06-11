@@ -50,4 +50,7 @@ export default {
 </script>
 
 <style>
+.filter {
+  filter: grayscale(100%);
+}
 </style>
