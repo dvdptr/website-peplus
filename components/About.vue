@@ -7,8 +7,8 @@
       </div>
       <div class>
         <section class="pb-6">
-          <p>Peter Ebner</p>
-          <p>Bankkaufmann & Finanzierungsspezialist</p>
+          <p class="font-bold text-xl">Peter Ebner</p>
+          <p class="text-gray-800">Bankkaufmann & Finanzierungsspezialist</p>
         </section>
         <section class v-for="check in checkList" v-bind:key="check">
           <div class="flex items-center">
@@ -16,7 +16,7 @@
             <p>{{check.item}}</p>
           </div>
         </section>
-        <section class="pt-6">
+        <section class="pt-12">
           <button
             class="bg-white hover:bg-gray-100 text-gray-800 font-bold py-2 px-4 border border-gray-400 rounded shadow"
           >Kontakt</button>
