@@ -1,5 +1,5 @@
 <template>
-  <div class="py-6">
+  <div class="pt-16 pb-12">
     <section class="text-center text-2xl font-bold">{{title}}</section>
     <section class="text-center text-gray-700 w-1/2 mx-auto leading-snug text-base">{{subtitle}}</section>
   </div>
