@@ -13,6 +13,9 @@
         <button
           class="bg-red-700 hover:bg-red-600 text-white font-bold py-2 px-4 rounded"
         >Anfrage stellen</button>
+        <button
+          class="bg-white hover:bg-red-100 text-gray-800 font-semibold py-2 px-4 border border-gray-400 rounded shadow ml-3"
+        >Videoberatung</button>
       </section>
     </div>
     <div class="w-1/2 px-4">
