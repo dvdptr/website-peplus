@@ -20,7 +20,9 @@
     </div>
     <div class="w-1/2 px-4">
       <section>
-        <div class="bg-blue-200 w-full h-64"></div>
+        <div class="bg-blue-100">
+          <img src="~/assets/img/fam2.png" />
+        </div>
       </section>
     </div>
   </div>

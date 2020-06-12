@@ -7,9 +7,9 @@
     </section>
 
     <!-- Leistungen Loop -->
-    <div class="flex flex-wrap justify-evenly">
+    <div class="flex flex-wrap justify-center">
       <div
-        class="border border-gray-500 rounded-sm w-5/12 p-4 mb-3"
+        class="border border-gray-500 rounded-sm w-5/12 p-4 mx-4 mb-3"
         v-for="leistung in leistungenOverview"
         v-bind:key="leistung"
       >

@@ -1,6 +1,6 @@
 <template>
   <div class="spacing border-b border-gray-400 pylg">
-    <div class="flex justify-evenly mx-auto">
+    <div class="flex justify-evenly mx-auto items-center">
       <div class="w-5/12">
         <section class="text-4xl pb-2 font-bold">Sie haben Fragen?</section>
         <section
@@ -10,7 +10,9 @@
           class="bg-red-700 hover:bg-red-600 text-white font-bold py-2 px-4 rounded"
         >Anfrage stellen</button>
       </div>
-      <section class="w-1/3 bg-red-100">*Image Placeholder</section>
+      <section class="w-5/12">
+        <img src="~/assets/img/fam1.png" />
+      </section>
     </div>
   </div>
 </template>

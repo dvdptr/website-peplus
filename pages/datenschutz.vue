@@ -1,28 +1,30 @@
 <template>
   <div class="font-medium">
     <Header />
-    <p class="text-xl py-12">Datenschutzbestimmungen</p>
-    <div class="comp-width">
-      <p>Angaben gemäß § 5 TMG.</p>
-      <div class="pb-4">
-        <p>Peter Ebner FinanzberatungPlus</p>
-        <p>Im Bungert 5</p>
-        <p>54317 Herl</p>
-      </div>
-      <div class="pb-4">
-        <p>e-Mail: peterebner@gmx.de</p>
-        <p>Internet: www.finanzberatung-ebner.de</p>
-      </div>
+    <div class="spacing pylg border-b border-gray-400">
+      <p class="text-xl pb-6">Datenschutzbestimmungen</p>
+      <div class="comp-width">
+        <p>Angaben gemäß § 5 TMG.</p>
+        <div class="pb-4">
+          <p>Peter Ebner FinanzberatungPlus</p>
+          <p>Im Bungert 5</p>
+          <p>54317 Herl</p>
+        </div>
+        <div class="pb-4">
+          <p>e-Mail: peterebner@gmx.de</p>
+          <p>Internet: www.finanzberatung-ebner.de</p>
+        </div>
 
-      <div class="pb-4">
-        <p>Vertreten durch:</p>
-        <p>Peter Ebner</p>
-        <p>Im Bungert 5</p>
-        <p>54317 Herl</p>
-      </div>
-      <div v-for="auflistung in auflistungImpressum" v-bind:key="auflistung">
-        <p class="pb-4 font-bold">{{ auflistung.headline }}</p>
-        <p v-html="auflistung.text"></p>
+        <div class="pb-4">
+          <p>Vertreten durch:</p>
+          <p>Peter Ebner</p>
+          <p>Im Bungert 5</p>
+          <p>54317 Herl</p>
+        </div>
+        <div v-for="auflistung in auflistungImpressum" v-bind:key="auflistung">
+          <p class="pb-4 font-bold">{{ auflistung.headline }}</p>
+          <p v-html="auflistung.text"></p>
+        </div>
       </div>
     </div>
     <Kontakt />

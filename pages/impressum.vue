@@ -1,35 +1,36 @@
 <template>
   <div class="font-medium">
     <Header />
-    <p class="text-xl py-12">Impressum</p>
-    <p>Angaben gemäß § 5 TMG.</p>
-    <div class="pb-4">
-      <p>Peter Ebner Finanzberatung</p>
-      <p>Im Bungert 5</p>
-      <p>54317 Herl</p>
+    <div class="spacing pylg border-b border-gray-400">
+      <p class="text-xl pb-6">Impressum</p>
+      <p>Angaben gemäß § 5 TMG.</p>
+      <div class="pb-4">
+        <p>Peter Ebner Finanzberatung</p>
+        <p>Im Bungert 5</p>
+        <p>54317 Herl</p>
+      </div>
+      <div class="pb-4">
+        <p>e-Mail: peterebner@gmx.de</p>
+        <p>Internet: www.finanzberatung-ebner.de</p>
+      </div>
+      <div class="pb-4">
+        <p>Steuernummer: 65348109221</p>
+      </div>
+      <div class="pb-4">
+        <p>Vertreten durch:</p>
+        <p>Peter Ebner</p>
+        <p>Im Bungert 5</p>
+        <p>54317 Herl</p>
+      </div>
+      <div>
+        <p>Weiterführende Datenschutzbestimmungen, die im Zusammenhang mit Geschäftsabschlüssen und -Anfragen in Zusammenarbeit mit der Starpool GmbH wirksam werden:</p>
+        <a href="/documents/Datenschutz-Hinweise.pdf" target="_blank" class="mt-6">Download</a>
+      </div>
+      <div v-for="auflistung in auflistungImpressum" v-bind:key="auflistung">
+        <p class="pt-6 pb-4 font-bold">{{ auflistung.headline }}</p>
+        <p v-html="auflistung.text"></p>
+      </div>
     </div>
-    <div class="pb-4">
-      <p>e-Mail: peterebner@gmx.de</p>
-      <p>Internet: www.finanzberatung-ebner.de</p>
-    </div>
-    <div class="pb-4">
-      <p>Steuernummer: 65348109221</p>
-    </div>
-    <div class="pb-4">
-      <p>Vertreten durch:</p>
-      <p>Peter Ebner</p>
-      <p>Im Bungert 5</p>
-      <p>54317 Herl</p>
-    </div>
-    <div>
-      <p>Weiterführende Datenschutzbestimmungen, die im Zusammenhang mit Geschäftsabschlüssen und -Anfragen in Zusammenarbeit mit der Starpool GmbH wirksam werden:</p>
-      <a href="/documents/Datenschutz-Hinweise.pdf" target="_blank" class="mt-6">Download</a>
-    </div>
-    <div v-for="auflistung in auflistungImpressum" v-bind:key="auflistung">
-      <p class="pt-6 pb-4 font-bold">{{ auflistung.headline }}</p>
-      <p v-html="auflistung.text"></p>
-    </div>
-
     <Kontakt />
     <Footer />
   </div>
