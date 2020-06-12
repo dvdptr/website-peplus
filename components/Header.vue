@@ -1,5 +1,5 @@
 <template>
-  <div class="border-b border-gray-400 pb-8 pt-8">
+  <div class="spacing border-b border-gray-400 pb-8 pt-8">
     <!-- <p class="text-sm text-right pb-4">Sie haben Fragen?</p> -->
     <div class="flex justify-between items-center">
       <div>

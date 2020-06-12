@@ -1,5 +1,5 @@
 <template>
-  <div class="border-b border-gray-400 flex py-16 justify-around items-center">
+  <div class="spacing border-b border-gray-400 flex pylg justify-around items-center">
     <div class="w-1/2 mx-4">
       <section>
         <p class="text-5xl font-bold leading-tight pb-4">
@@ -20,7 +20,9 @@
     </div>
     <div class="w-1/2 px-4">
       <section>
-        <div class="bg-blue-200 w-full h-64"></div>
+        <div class="bg-blue-100">
+          <img src="~/assets/img/fam2.png" />
+        </div>
       </section>
     </div>
   </div>

@@ -1,5 +1,5 @@
 <template>
-  <div class="border-b border-gray-400 pb-12">
+  <div class="spacing border-b border-gray-400 pylg">
     <Headline :title="title" :subtitle="subtitle" />
     <div class="flex pt-12 items-center justify-evenly">
       <div class>

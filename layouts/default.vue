@@ -1,5 +1,5 @@
 <template>
-  <div class="w-5/6 mx-auto">
+  <div class="mx-auto">
     <nuxt />
   </div>
 </template>
@@ -20,5 +20,13 @@ html {
 *:after {
   box-sizing: border-box;
   margin: 0;
+}
+
+.spacing {
+  @apply w-5/6 mx-auto;
+}
+
+.pylg {
+  @apply py-16;
 }
 </style>
