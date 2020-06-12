@@ -1,6 +1,7 @@
 <template>
   <div class="font-medium">
     <Header />
+    <p class="text-xl py-12">Impressum</p>
     <p>Angaben gemäß § 5 TMG.</p>
     <div class="pb-4">
       <p>Peter Ebner Finanzberatung</p>
@@ -21,7 +22,8 @@
       <p>54317 Herl</p>
     </div>
     <div>
-      <!-- <a :href="require('../assets/documents/Datenschutz-Hinweise.pdf')" download>Download</a> -->
+      <p>Weiterführende Datenschutzbestimmungen, die im Zusammenhang mit Geschäftsabschlüssen und -Anfragen in Zusammenarbeit mit der Starpool GmbH wirksam werden:</p>
+      <a href="/documents/Datenschutz-Hinweise.pdf" target="_blank" class="mt-6">Download</a>
     </div>
     <div v-for="auflistung in auflistungImpressum" v-bind:key="auflistung">
       <p class="pt-6 pb-4 font-bold">{{ auflistung.headline }}</p>

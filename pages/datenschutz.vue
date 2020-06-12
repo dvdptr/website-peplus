@@ -1,7 +1,8 @@
 <template>
   <div class="font-medium">
     <Header />
-    <div class="comp-width py-4 md:py-16">
+    <p class="text-xl py-12">Datenschutzbestimmungen</p>
+    <div class="comp-width">
       <p>Angaben gemäß § 5 TMG.</p>
       <div class="pb-4">
         <p>Peter Ebner FinanzberatungPlus</p>
