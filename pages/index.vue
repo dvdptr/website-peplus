@@ -38,4 +38,8 @@ export default {
   @apply min-h-screen flex justify-center items-center text-center mx-auto;
 }
 */
+
+.spacing {
+  @apply w-5/6 mx-auto;
+}
 </style>

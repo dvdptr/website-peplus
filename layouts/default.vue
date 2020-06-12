@@ -1,5 +1,5 @@
 <template>
-  <div class="w-5/6 mx-auto">
+  <div class="mx-auto">
     <nuxt />
   </div>
 </template>
