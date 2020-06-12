@@ -1,5 +1,5 @@
 <template>
-  <div class="spacing border-b border-gray-400 pb-12">
+  <div class="spacing text-lg border-b border-gray-400 pb-12">
     <section>
       <div>
         <Headline :title="title" :subtitle="subtitle" />
@@ -7,18 +7,18 @@
     </section>
 
     <!-- Leistungen Loop -->
-    <div class="flex flex-wrap justify-around">
+    <div class="flex flex-wrap justify-evenly">
       <div
-        class="border border-gray-400 rounded-sm w-5/12 mx-auto p-2 mb-3"
+        class="border border-gray-500 rounded-sm w-5/12 p-4 mb-3"
         v-for="leistung in leistungenOverview"
         v-bind:key="leistung"
       >
         <div class>
-          <div class="pb-2">
+          <div class="pb-2 font-bold">
             <img :src="leistung.iconUrl" alt class />
             {{ leistung.headline }}
           </div>
-          <div class="text-sm leading-snug text-gray-700 pb-2">{{ leistung.text }}</div>
+          <div class="text-sm leading-snug text-gray-800 pb-2">{{ leistung.text }}</div>
 
           <a
             href="mailto:peterebner@gmx.de"
