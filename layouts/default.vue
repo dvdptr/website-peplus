@@ -21,4 +21,8 @@ html {
   box-sizing: border-box;
   margin: 0;
 }
+
+.pylg {
+  @apply py-16;
+}
 </style>

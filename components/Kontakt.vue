@@ -1,5 +1,5 @@
 <template>
-  <div class="spacing border-b border-gray-400 py-12">
+  <div class="spacing border-b border-gray-400 pylg">
     <div class="flex justify-evenly mx-auto">
       <div class="w-5/12">
         <section class="text-4xl pb-2 font-bold">Sie haben Fragen?</section>

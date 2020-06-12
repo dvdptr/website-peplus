@@ -1,5 +1,5 @@
 <template>
-  <div class="spacing text-lg border-b border-gray-400 pb-12">
+  <div class="spacing text-lg border-b border-gray-400 pylg">
     <section>
       <div>
         <Headline :title="title" :subtitle="subtitle" />
