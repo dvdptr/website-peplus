@@ -18,8 +18,10 @@
         <br />e-Mail: pe@finanzberatung-ebner.de
       </section>
       <section class="py-4">
-        <p class="underline pb-2">Links</p>Impressum
-        <br />Datenschutz
+        <p class="underline pb-2">Links</p>
+        <nuxt-link to="/impressum">Impressum</nuxt-link>
+        <br />
+        <nuxt-link to="/datenschutz">Datenschutz</nuxt-link>
       </section>
     </div>
   </div>
