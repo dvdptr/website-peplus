@@ -1,33 +1,17 @@
 <template>
   <div class="font-medium">
     <Header />
-    <Hero />
-    <About />
-    <Leistungen />
-    <Netzwerk />
-    <Kontakt />
-    <Footer />
+
+    <Construction />
   </div>
 </template>
 
 <script>
-import Header from "~/components/Header.vue";
-import Hero from "~/components/Hero.vue";
-import About from "~/components/About.vue";
-import Netzwerk from "~/components/Netzwerk.vue";
-import Kontakt from "~/components/Kontakt.vue";
-import Footer from "~/components/Footer.vue";
-import Leistungen from "~/components/Leistungen.vue";
+import Construction from "~/components/Construction.vue";
 
 export default {
   components: {
-    Header,
-    Hero,
-    About,
-    Netzwerk,
-    Kontakt,
-    Footer,
-    Leistungen
+    Construction
   }
 };
 </script>
