@@ -8,7 +8,7 @@
         </nuxt-link>
       </div>
       <div class="items-center">
-        <section class="text-center w-2/5 mx-auto pt-12">
+        <section class="text-center w-full md:w-2/5 mx-auto pt-12">
           <p>Liebe/r Besucher/in, diese Webseite befindet sich derzeit im Umbau. Sie erreichen mich wie gewohnt unter den folgenden Angaben:</p>
           <p class="pt-5 text-center">Mobil: 0151 12 669 832</p>
           <p class="text-center">
@@ -29,8 +29,8 @@ import Logo from "~/components/Logo.vue";
 
 export default {
   components: {
-    Logo
-  }
+    Logo,
+  },
 };
 </script>
 
