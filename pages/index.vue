@@ -27,8 +27,13 @@ export default {
     Netzwerk,
     Kontakt,
     Footer,
-    Leistungen
-  }
+    Leistungen,
+  },
+  head() {
+    return {
+      title: "test",
+    };
+  },
 };
 </script>
 

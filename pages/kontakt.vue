@@ -15,8 +15,13 @@ export default {
   components: {
     Header,
     Kontakt,
-    Footer
-  }
+    Footer,
+  },
+  head() {
+    return {
+      title: "kontakt",
+    };
+  },
 };
 </script>
 

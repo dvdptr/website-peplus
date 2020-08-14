@@ -17,7 +17,7 @@ import Headline from "@/components/elements/Headline.vue";
 
 export default {
   components: {
-    Headline
+    Headline,
   },
   data() {
     return {
@@ -28,24 +28,24 @@ export default {
         { imageUrl: require("@/assets/svg/partner-logos/Banco_Santander.svg") },
         { imageUrl: require("@/assets/svg/partner-logos/Commerzbank.svg") },
         {
-          imageUrl: require("@/assets/svg/partner-logos/BHW_Bausparkasse.svg")
+          imageUrl: require("@/assets/svg/partner-logos/BHW_Bausparkasse.svg"),
         },
         { imageUrl: require("@/assets/svg/partner-logos/Postbank.svg") },
         { imageUrl: require("@/assets/svg/partner-logos/Wüstenrot.svg") },
         { imageUrl: require("@/assets/svg/partner-logos/DEVK.svg") },
         { imageUrl: require("@/assets/svg/partner-logos/DSL_Bank_logo.svg") },
         {
-          imageUrl: require("@/assets/svg/partner-logos/Hanseatic_Bank_Logo.svg")
+          imageUrl: require("@/assets/svg/partner-logos/Hanseatic_Bank_Logo.svg"),
         },
         { imageUrl: require("@/assets/svg/partner-logos/HDI-Logo.svg") },
-        { imageUrl: require("@/assets/svg/partner-logos/Swisslife-logo.svg") },
+        { imageUrl: require("@/assets/svg/partner-logos/Targobank_logo.svg") },
         { imageUrl: require("@/assets/svg/partner-logos/Signal-iduna.svg") },
         { imageUrl: require("@/assets/svg/partner-logos/Alte_Leipziger.svg") },
         { imageUrl: require("@/assets/svg/partner-logos/Gothaer.svg") },
-        { imageUrl: require("@/assets/svg/partner-logos/Zurich_Logo.svg") }
-      ]
+        { imageUrl: require("@/assets/svg/partner-logos/Zurich_Logo.svg") },
+      ],
     };
-  }
+  },
 };
 </script>
 
