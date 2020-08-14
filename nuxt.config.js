@@ -15,7 +15,8 @@ export default {
         hid: "description",
         name: "description",
         content: process.env.npm_package_description || ""
-      }
+      },
+      { hid: "keyword", name: "keyword", content: "Finanzberatung" }
     ],
     link: [
       { rel: "icon", type: "image/x-icon", href: "/favicon.ico" },
