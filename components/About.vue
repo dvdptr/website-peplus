@@ -13,13 +13,15 @@
         <section class v-for="check in checkList" v-bind:key="check">
           <div class="flex items-center">
             <img :src="check.iconUrl" alt class="w-8 ml-2" />
-            <p>{{check.item}}</p>
+            <p>{{ check.item }}</p>
           </div>
         </section>
         <section class="pt-12">
           <button
             class="bg-white hover:bg-gray-100 text-gray-800 font-bold py-2 px-4 border border-gray-400 rounded shadow"
-          >Kontakt</button>
+          >
+            Kontakt
+          </button>
         </section>
       </div>
     </div>
@@ -53,5 +55,4 @@ export default {
 };
 </script>
 
-<style>
-</style>
+<style></style>
