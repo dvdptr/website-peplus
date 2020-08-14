@@ -31,6 +31,9 @@ export default {
   },
   head() {
     return {
+      htmlAttrs: {
+        lang: "de",
+      },
       title: "test",
     };
   },
