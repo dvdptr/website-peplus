@@ -1,5 +1,5 @@
 <template>
-  <div class="spacing border-x border-gray-400 pb-8 pt-8">
+  <div class="spacing border-x border-gray-400 pb-8">
     <!-- <p class="text-sm text-right pb-4">Sie haben Fragen?</p> -->
     <div class="mx-auto items-center">
       <div class="pt-16 mx-auto items-center">
