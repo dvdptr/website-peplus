@@ -27,7 +27,7 @@ export default {
     Netzwerk,
     Kontakt,
     Footer,
-    Leistungen,
+    Leistungen
   },
   head() {
     return {
@@ -38,11 +38,11 @@ export default {
         {
           hid: "description",
           name: "description",
-          content: process.env.npm_package_description || "",
-        },
-      ],
+          content: "Peter Ebner Finanzberatung Plus bietet Ihnen "
+        }
+      ]
     };
-  },
+  }
 };
 </script>
 
