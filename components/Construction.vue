@@ -31,6 +31,19 @@ export default {
   components: {
     Logo,
   },
+  head() {
+      return {
+        title: Peter Ebner Finanzberatung Plus,
+        meta: [
+          // hid is used as unique identifier. Do not use `vmid` for it as it will not work
+          {
+            hid: 'description',
+            name: 'description',
+            content: 'Peter Ebner Finanzberatung Plus'
+          }
+        ]
+      }
+    }
 };
 </script>
 
