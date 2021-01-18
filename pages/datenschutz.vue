@@ -43,6 +43,11 @@ export default {
     Kontakt,
     Footer
   },
+  head() {
+    return {
+      title: "Peter Ebner Finanzberatung Plus: Datenschutz",
+    };
+  },
   data() {
     return {
       auflistungImpressum: [

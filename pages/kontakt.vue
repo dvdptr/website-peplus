@@ -19,7 +19,7 @@ export default {
   },
   head() {
     return {
-      title: "kontakt",
+      title: "Peter Ebner Finanzberatung Plus: Kontakt",
     };
   },
 };
