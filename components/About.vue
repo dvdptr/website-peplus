@@ -16,11 +16,12 @@
             <p>{{ check.item }}</p>
           </div>
         </section>
+        
         <section class="pt-12">
           <button
             class="bg-white hover:bg-gray-100 text-gray-800 font-bold py-2 px-4 border border-gray-400 rounded shadow"
           >
-            Kontakt
+            Kontakt per eMail
           </button>
         </section>
       </div>
@@ -48,6 +49,10 @@ export default {
         {
           iconUrl: require("@/assets/svg/ok.svg"),
           item: "Flexible Lösungsvorschläge"
+        },
+        {
+          iconUrl: require("@/assets/svg/ok.svg"),
+          item: "Ortsunabhängige Videoberatung"
         }
       ]
     };
