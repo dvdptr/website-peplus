@@ -13,9 +13,9 @@
             <nuxt-link class="pl-6" to="/videoberatung">Videoberatung</nuxt-link>
           </nav>
           <nuxt-link class="pl-6" to="/kontakt">Kontakt</nuxt-link>
-          <button
+          <!-- <button
             class="bg-white hover:bg-gray-100 text-gray-800 font-semibold py-2 px-4 border border-gray-400 rounded shadow ml-6"
-          >Kontakt</button>
+          >Kontakt</button> -->
         </section>
       </div>
     </div>
