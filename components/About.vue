@@ -1,7 +1,7 @@
 <template>
 
 <div class="spacing border-b border-gray-400 pylg"><h1 class="text-4xl font-black text-center">Über meine Person</h1>
-<section class="text-gray-700 text-xl w-10/12 text-center m-auto py-6"><p >Seit mehr als 30 Jahren übe ich den Beruf des Finanzberaters mit Freude und Enthusiasmus aus. Zu einer erfolgreichen Beratung gehört eine Begegnung auf Augenhöhe. Hierzu berate ich meine Kunden zu umfassenden Möglichkeiten einer Finanzierung und übersetze komplexe Vorgänge in nachvollziehbare Einzelschritte. Ich begleite Ihr Finanzierungsvorhaben von der Planung bis zur Umsetzung und stehe bei Fragen sowohl persönlich, telefonisch wie auch überregional per Videoberatung zur Verfügung.</p><p class="pt-6">Ich freue mich von Ihnen zu hören!</p></section>
+<section class="text-gray-700 text-xl w-10/12 text-center m-auto py-6"><p >Seit mehr als 30 Jahren übe ich den Beruf des Finanzberaters mit Freude und Enthusiasmus aus. Zu einer erfolgreichen Beratung gehört eine Begegnung auf Augenhöhe. Hierzu berate ich meine Kunden zu umfassenden Möglichkeiten einer Finanzierung und übersetze komplexe Vorgänge in nachvollziehbare Einzelschritte. Ich begleite Ihr Finanzierungsvorhaben von der Planung bis zur Umsetzung und stehe bei Fragen sowohl persönlich, telefonisch wie auch überregional per Videoberatung zur Verfügung.</p></section>
 <div class>
         <img src="@/assets/img/peterEbner.jpg" alt class="rounded-md mx-auto w-64" />
       </div>
