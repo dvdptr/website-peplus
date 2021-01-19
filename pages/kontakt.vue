@@ -1,6 +1,7 @@
 <template>
   <div class="font-medium">
     <Header />
+    
     <Kontakt />
     <Footer />
   </div>

@@ -1,32 +1,12 @@
 <template>
-  <div class="spacing border-b border-gray-400 pylg">
-    <Headline :title="title" :subtitle="subtitle" />
-    <div class="flex pt-12 items-center justify-evenly">
-      <div class>
-        <img src="@/assets/img/peterEbner.jpg" alt class="rounded-md mx-auto" />
+
+<div class="spacing border-b border-gray-400 pylg"><h1 class="text-4xl font-black text-center">Über meine Person</h1>
+<section class="text-gray-700 text-xl w-10/12 text-center m-auto py-6"><p >Seit mehr als 30 Jahren übe ich den Beruf des Finanzberaters mit Freude und Enthusiasmus aus. Zu einer erfolgreichen Beratung gehört eine Begegnung auf Augenhöhe. Hierzu berate ich meine Kunden zu umfassenden Möglichkeiten einer Finanzierung und übersetze komplexe Vorgänge in nachvollziehbare Einzelschritte. Ich begleite Ihr Finanzierungsvorhaben von der Planung bis zur Umsetzung und stehe bei Fragen sowohl persönlich, telefonisch wie auch überregional per Videoberatung zur Verfügung.</p><p class="pt-6">Ich freue mich von Ihnen zu hören!</p></section>
+<div class>
+        <img src="@/assets/img/peterEbner.jpg" alt class="rounded-md mx-auto w-64" />
       </div>
-      <div class>
-        <section class="pb-6">
-          <p class="font-bold text-xl">Peter Ebner</p>
-          <p class="text-gray-800">Bankkaufmann & Finanzierungsspezialist</p>
-        </section>
-        <section class v-for="check in checkList" v-bind:key="check">
-          <div class="flex items-center">
-            <img :src="check.iconUrl" alt class="w-8 ml-2" />
-            <p>{{ check.item }}</p>
-          </div>
-        </section>
-        
-        <section class="pt-12">
-          <button
-            class="bg-white hover:bg-gray-100 text-gray-800 font-bold py-2 px-4 border border-gray-400 rounded shadow"
-          >
-            Kontakt per eMail
-          </button>
-        </section>
-      </div>
-    </div>
-  </div>
+      <section class="m-auto text-center py-6"><p>Peter Ebner</p>
+      <p>Bankkaufmann & Finanzierungsspezialist</p></section></div>
 </template>
 
 <script>
@@ -35,27 +15,6 @@ import Headline from "@/components/elements/Headline.vue";
 export default {
   components: {
     Headline
-  },
-  data() {
-    return {
-      title: "Über meine Person",
-      subtitle:
-        "Seit mehr als 30 Jahren übe ich den Beruf des Finanzberaters mit Freude und Enthusiasmus aus.",
-      checkList: [
-        {
-          iconUrl: require("@/assets/svg/ok.svg"),
-          item: "Freundliche Atmosphäre"
-        },
-        {
-          iconUrl: require("@/assets/svg/ok.svg"),
-          item: "Flexible Lösungsvorschläge"
-        },
-        {
-          iconUrl: require("@/assets/svg/ok.svg"),
-          item: "Ortsunabhängige Videoberatung"
-        }
-      ]
-    };
   }
 };
 </script>
