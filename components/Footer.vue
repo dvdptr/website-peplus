@@ -9,13 +9,13 @@
     </div>
     <div class="flex">
       <section class="py-4 mr-12">
-        <p class="font-bold pb-1">Home-Office</p>Im Bungert 5
-        <br />54317 Herl
+        <p class="font-bold pb-1">Home-Office</p>
+        Im Bungert 5 <br />54317 Herl
         <br />
       </section>
       <section class="py-4 mr-12">
-        <p class="font-bold pb-1">Kontakt</p>Mobil: 0151 12 669 832
-        <br />e-Mail: pe@finanzberatung-ebner.de
+        <p class="font-bold pb-1">Kontakt</p>
+        Mobil: 0151 12 669 832 <br />e-Mail: pe@finanzberatung-ebner.de
       </section>
     </div>
     <section class="py-4">
@@ -36,5 +36,4 @@ export default {
 };
 </script>
 
-<style>
-</style>
+<style></style>

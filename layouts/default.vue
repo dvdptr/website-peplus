@@ -27,6 +27,6 @@ html {
 }
 
 .pylg {
-  @apply py-16;
+  @apply py-16 max-w-screen-xl;
 }
 </style>
