@@ -10,7 +10,9 @@
       <div class="items-center text-right">
         <section class="flex items-center">
           <nav>
-            <nuxt-link class="pl-6" to="/videoberatung">Videoberatung</nuxt-link>
+            <nuxt-link class="pl-6" to="/videoberatung"
+              >Videoberatung</nuxt-link
+            >
           </nav>
           <nuxt-link class="pl-6" to="/kontakt">Kontakt</nuxt-link>
           <!-- <button
@@ -32,5 +34,4 @@ export default {
 };
 </script>
 
-<style>
-</style>
+<style></style>
