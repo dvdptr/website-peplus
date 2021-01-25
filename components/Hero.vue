@@ -25,7 +25,7 @@
             >Kontaktformular</a
           >
         </button>
-        ´<button
+        <button
           class="bg-white hover:bg-red-100 text-gray-800 font-semibold py-2 px-4 border border-gray-400 rounded shadow ml-3"
         >
           <a href="mailto:peterebner@gmx.de" target="_blank"
