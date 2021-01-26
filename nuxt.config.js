@@ -4,6 +4,9 @@ export default {
    ** Headers of the page
    */
   head: {
+    htmlAttrs: {
+      lang: "de"
+    },
     title: process.env.npm_package_name || "",
     meta: [
       { charset: "utf-8" },
@@ -12,10 +15,11 @@ export default {
         hid: "description",
         name: "description",
         content: process.env.npm_package_description || ""
-      }
+      },
+      { hid: "keyword", name: "keyword", content: "Finanzberatung" }
     ],
     link: [
-      { rel: "icon", type: "image/x-icon", href: "/favicon.ico" },
+      { rel: "icon", type: "image/x-icon", href: "/favicon.png" },
       {
         rel: "stylesheet",
         href:
@@ -45,7 +49,14 @@ export default {
   /*
    ** Nuxt.js modules
    */
-  modules: [],
+  modules: [
+    [
+      "@nuxtjs/google-analytics",
+      {
+        id: "UA-12301-2"
+      }
+    ]
+  ],
   /*
    ** Build configuration
    */

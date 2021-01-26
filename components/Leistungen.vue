@@ -40,7 +40,7 @@ export default {
   data() {
     return {
       title: "Leistungen im Überblick",
-      subtitle: "Überblick der Leistungen",
+      subtitle: "Als unabhängiger Finanzberater biete ich Ihnen ein breites Angebot möglicher Finanzierungsmethoden.",
       leistungenOverview: [
         {
           //   iconUrl: require("@/assets/svg/chevron-r.svg"),

@@ -5,7 +5,9 @@
       <Headline :title="title" :subtitle="subtitle" />
       <!-- Grafik-Videoberatung -->
       <div class="md:w-full md:w-3/4">
-        <div class="mx-auto p-0 md:p-8 my-6 flex-none md:flex justify-center items-center">
+        <div
+          class="mx-auto p-0 md:p-8 my-6 flex-none md:flex justify-center items-center"
+        >
           <div class="w-full md:w-1/2">
             <img src="@/assets/img/videoberatung-DE.png" alt class="mx-auto" />
           </div>
@@ -16,7 +18,7 @@
               v-bind:key="vorteil"
             >
               <img :src="vorteil.iconUrl" alt class="w-3 h-3 mx-4" />
-              {{vorteil.text}}
+              {{ vorteil.text }}
             </div>
           </div>
         </div>
