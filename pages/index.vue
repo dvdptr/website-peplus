@@ -1,13 +1,23 @@
 <template>
   <div class="font-medium">
     <Header />
-
-    <Construction />
+    <Hero />
+    <About />
+    <Leistungen />
+    <Netzwerk />
+    <Kontakt />
+    <Footer />
   </div>
 </template>
 
 <script>
-import Construction from "~/components/Construction.vue";
+import Header from "~/components/Header.vue";
+import Hero from "~/components/Hero.vue";
+import About from "~/components/About.vue";
+import Netzwerk from "~/components/Netzwerk.vue";
+import Kontakt from "~/components/Kontakt.vue";
+import Footer from "~/components/Footer.vue";
+import Leistungen from "~/components/Leistungen.vue";
 
 export default {
   components: {
