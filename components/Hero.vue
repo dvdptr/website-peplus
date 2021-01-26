@@ -2,7 +2,7 @@
   <div
     class="spacing border-b border-gray-400 flex pylg justify-around items-center"
   >
-    <div class="w-1/2 px-4 py-6">
+    <div class="w-2/3 px-4 py-6 text-center">
       <section>
         <p class="text-5xl font-bold leading-tight pb-4">
           Finanzierung
@@ -34,13 +34,13 @@
         </button>
       </section>
     </div>
-    <div class="w-1/2 px-4">
+    <!-- <div class="w-1/2 px-4">
       <section>
         <div class="bg-blue-100">
           <img src="~/assets/img/fam33.png" />
         </div>
       </section>
-    </div>
+    </div> -->
   </div>
 </template>
 
