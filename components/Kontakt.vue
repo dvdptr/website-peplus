@@ -1,18 +1,33 @@
 <template>
   <div class="spacing border-b border-gray-400 pylg">
-    <div class="flex justify-evenly mx-auto items-center">
+    <div class="flex justify-evenly mx-auto text-center items-center">
       <div class="w-5/12">
         <section class="text-4xl pb-2 font-bold">Sie haben Fragen?</section>
-        <section
-          class="text-normal text-gray-700 pb-6"
-        >Gerne berate ich Sie in einem persönlichen Gespräch. Nehmen Sie ganz unverbindlich Kontakt zu mir auf, ich freue mich von Ihnen zu hören!</section>
+        <section class="text-normal text-gray-700 pb-6">
+          Gerne berate ich Sie in einem persönlichen Gespräch. Nehmen Sie ganz
+          unverbindlich Kontakt zu mir auf, ich freue mich von Ihnen zu hören!
+        </section>
         <button
           class="bg-red-700 hover:bg-red-600 text-white font-bold py-2 px-4 rounded"
-        >Anfrage stellen</button>
+        >
+          <a
+            href="https://ebner-finanzberatung.typeform.com/to/ZdjW8J"
+            target="_blank"
+            rel="noopener noreferrer"
+            >Kontaktformular</a
+          >
+        </button>
+        <button
+          class="bg-white hover:bg-red-100 text-gray-800 font-semibold py-2 px-4 border border-gray-400 rounded shadow ml-3"
+        >
+          <a href="mailto:peterebner@gmx.de" target="_blank"
+            >e-Mail schreiben</a
+          >
+        </button>
       </div>
-      <section class="w-5/12">
+      <!-- <section class="w-5/12">
         <img src="~/assets/img/fam1.png" />
-      </section>
+      </section> -->
     </div>
   </div>
 </template>
@@ -21,5 +36,4 @@
 export default {};
 </script>
 
-<style>
-</style>
+<style></style>
