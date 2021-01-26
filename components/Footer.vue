@@ -10,12 +10,12 @@
     <div class="flex">
       <section class="py-4 mr-12">
         <p class="font-bold pb-1">Home-Office</p>
-        Finanzberatung Plus<br />Peter Ebner <br />Im Bungert 5 <br />54317 Herl
+        Peter Ebner <br />Im Bungert 5 <br />54317 Herl
         <br />
       </section>
       <section class="py-4 mr-12">
         <p class="font-bold pb-1">Kontakt</p>
-        Mobil: 0151 12 669 832 <br />e-Mail: pe@finanzberatung-ebner.de
+        Mobil: 0151 12 669 832 <br />e-Mail: peterebner@gmx.de
       </section>
     </div>
     <section class="py-4">

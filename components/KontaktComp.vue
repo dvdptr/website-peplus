@@ -13,7 +13,7 @@
       </section>
       <section class="py-4 mr-12">
         <p class="font-bold pb-1">Kontakt</p>
-        Mobil: 0151 12 669 832 <br />e-Mail: pe@finanzberatung-ebner.de
+        Mobil: 0151 12 669 832 <br />e-Mail: peterebner@gmx.de
       </section>
     </div>
   </div>
@@ -29,8 +29,7 @@ export default {
   data() {
     return {
       title: "Ich freue mich von Ihnen zu hören",
-      subtitle:
-        "Wählen Sie eine der aufgelisteten Möglichkeiten um ganz unverbindlich Kontakt zu mir aufzunehmen. "
+      subtitle: ""
     };
   }
 };
