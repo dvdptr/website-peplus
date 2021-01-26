@@ -19,7 +19,7 @@ export default {
       { hid: "keyword", name: "keyword", content: "Finanzberatung" }
     ],
     link: [
-      { rel: "icon", type: "image/x-icon", href: "/favicon.ico" },
+      { rel: "icon", type: "image/x-icon", href: "/favicon.png" },
       {
         rel: "stylesheet",
         href:
