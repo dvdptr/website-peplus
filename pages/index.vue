@@ -38,7 +38,8 @@ export default {
         {
           hid: "description",
           name: "description",
-          content: "Peter Ebner Finanzberatung Plus: Als unabhängiger Finanzierungsspezialist bin ich Ihr Partner rund um die Themen Finanzierung, Finanzieren ohne Eigenkapital und Privatkredite."
+          content:
+            "Peter Ebner Finanzberatung Plus: Als unabhängiger Finanzierungsspezialist bin ich Ihr Partner rund um die Themen Finanzierung, Finanzieren ohne Eigenkapital und Privatkredite."
         }
       ]
     };
