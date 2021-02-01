@@ -1,10 +1,10 @@
 <template>
   <div
-    class="spacing border-b border-gray-400 flex pylg justify-around items-center"
+    class="w-full md:max-w-screen-xl md:w-10/12 mx-auto border-b border-gray-400 flex pylg justify-around items-center"
   >
-    <div class="w-2/3 px-4 py-6 text-center">
+    <div class="w-full md:w-3/4 px-4 sm:py-1 md:py-6 text-center">
       <section>
-        <p class="text-5xl font-bold leading-tight pb-4">
+        <p class="text-4xl md:text-5xl font-bold leading-tight pb-4">
           Finanzierung
           <br />leicht gemacht.
         </p>
@@ -16,7 +16,7 @@
         </p>
         <p class="text-gray-800 text-lg pb-6">Ich bin gerne für Sie da.</p>
         <button
-          class="bg-red-700 hover:bg-red-600 text-white font-bold py-2 px-4 rounded"
+          class="bg-red-700 hover:bg-red-600 text-white font-bold py-2 px-4 rounded shadow"
         >
           <a
             href="https://ebner-finanzberatung.typeform.com/to/ZdjW8J"

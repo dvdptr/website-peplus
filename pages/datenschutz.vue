@@ -1,7 +1,9 @@
 <template>
   <div class="font-medium">
     <Header />
-    <div class="spacing pylg border-b border-gray-400">
+    <div
+      class="w-11/12 md:max-w-screen-xl md:w-10/12 mx-auto pylg border-b border-gray-400"
+    >
       <p class="text-xl pb-6">Datenschutzbestimmungen</p>
       <div class="comp-width">
         <p>Angaben gemäß § 5 TMG.</p>
@@ -45,7 +47,7 @@ export default {
   },
   head() {
     return {
-      title: "Peter Ebner Finanzberatung Plus: Datenschutz",
+      title: "Peter Ebner Finanzberatung Plus: Datenschutz"
     };
   },
   data() {

@@ -1,13 +1,13 @@
 <template>
   <div
-    class="border-b border-gray-400 py-8 flex mx-auto justify-center text-white leading-tight text-sm bg-gray-700"
+    class="w-full md:max-w-screen-xl border-b border-gray-400 px-4 md:px-0 py-8 mx-auto md:flex justify-center text-white leading-tight text-sm bg-gray-700"
   >
-    <div class>
+    <div class="">
       <section class="py-4 mr-12">
         <LogoWhite class="h-10 fill-current text-white" />
       </section>
     </div>
-    <div class="flex">
+    <div class="md:flex">
       <section class="py-4 mr-12">
         <p class="font-bold pb-1">Home-Office</p>
         Peter Ebner <br />Im Bungert 5 <br />54317 Herl

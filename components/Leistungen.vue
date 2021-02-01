@@ -1,5 +1,7 @@
 <template>
-  <div class="spacing text-lg border-b border-gray-400 pylg">
+  <div
+    class="w-full md:max-w-screen-xl md:w-10/12 mx-auto text-lg border-b border-gray-400 pylg"
+  >
     <section>
       <div>
         <Headline :title="title" :subtitle="subtitle" />
@@ -9,7 +11,7 @@
     <!-- Leistungen Loop -->
     <div class="flex flex-wrap justify-center">
       <div
-        class="border border-gray-500 rounded-sm w-5/12 p-4 mx-4 mb-3"
+        class="border border-gray-500 rounded-sm w-full md:w-5/12 p-4 mx-4 mb-3"
         v-for="leistung in leistungenOverview"
         v-bind:key="leistung"
       >
@@ -18,12 +20,15 @@
             <img :src="leistung.iconUrl" alt class />
             {{ leistung.headline }}
           </div>
-          <div class="text-sm leading-snug text-gray-800 pb-2">{{ leistung.text }}</div>
+          <div class="text-sm leading-snug text-gray-800 pb-2">
+            {{ leistung.text }}
+          </div>
 
           <a
             href="mailto:peterebner@gmx.de"
             class="text-red-800 hover:font-bold text-sm"
-          >Termin vereinbaren &#8594;</a>
+            >Termin vereinbaren &#8594;</a
+          >
         </div>
       </div>
     </div>
@@ -40,7 +45,8 @@ export default {
   data() {
     return {
       title: "Leistungen im Überblick",
-      subtitle: "Als unabhängiger Finanzberater biete ich Ihnen ein breites Angebot möglicher Finanzierungsmethoden.",
+      subtitle:
+        "Als unabhängiger Finanzberater biete ich Ihnen ein breites Angebot möglicher Finanzierungsmethoden.",
       leistungenOverview: [
         {
           //   iconUrl: require("@/assets/svg/chevron-r.svg"),
@@ -84,5 +90,4 @@ export default {
 };
 </script>
 
-<style>
-</style>
+<style></style>

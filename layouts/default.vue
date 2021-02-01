@@ -22,11 +22,7 @@ html {
   margin: 0;
 }
 
-.spacing {
-  @apply w-5/6 mx-auto;
-}
-
 .pylg {
-  @apply py-16 max-w-screen-xl;
+  @apply py-16;
 }
 </style>

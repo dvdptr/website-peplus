@@ -1,7 +1,13 @@
 <template>
-  <div class="spacing border-b border-gray-400 pylg">
-    <h1 class="text-5xl font-black text-center">Gemeinsam ans Ziel</h1>
-    <section class="text-gray-700 text-xl w-10/12 text-center m-auto pt-6">
+  <div
+    class="w-11/12 md:max-w-screen-xl md:w-10/12 mx-auto border-b border-gray-400 pylg"
+  >
+    <h1 class="text-4xl md:text-5xl font-black text-center">
+      Gemeinsam ans Ziel
+    </h1>
+    <section
+      class="text-gray-700 text-lg md:text-xl w-full md:w-10/12 text-center m-auto pt-6"
+    >
       <p>
         Seit mehr als 30 Jahren übe ich den Beruf des Finanzberaters mit Freude
         aus. Zu einer erfolgreichen Beratung gehört eine Begegnung auf

@@ -1,7 +1,9 @@
 <template>
   <div class="font-medium">
     <Header />
-    <div class="spacing pylg border-b border-gray-400">
+    <div
+      class="w-11/12 md:max-w-screen-xl md:w-10/12 mx-auto pylg border-b border-gray-400"
+    >
       <p class="text-xl pb-6">Impressum</p>
       <p>Angaben gemäß § 5 TMG.</p>
       <div class="pb-4">
@@ -23,8 +25,17 @@
         <p>54317 Herl</p>
       </div>
       <div>
-        <p>Weiterführende Datenschutzbestimmungen, die im Zusammenhang mit Geschäftsabschlüssen und -Anfragen in Zusammenarbeit mit der Starpool GmbH wirksam werden:</p>
-        <a href="/documents/Datenschutz-Hinweise.pdf" target="_blank" class="mt-6">Download</a>
+        <p>
+          Weiterführende Datenschutzbestimmungen, die im Zusammenhang mit
+          Geschäftsabschlüssen und -Anfragen in Zusammenarbeit mit der Starpool
+          GmbH wirksam werden:
+        </p>
+        <a
+          href="/documents/Datenschutz-Hinweise.pdf"
+          target="_blank"
+          class="mt-6"
+          >Download</a
+        >
       </div>
       <div v-for="auflistung in auflistungImpressum" v-bind:key="auflistung">
         <p class="pt-6 pb-4 font-bold">{{ auflistung.headline }}</p>
@@ -49,7 +60,7 @@ export default {
   },
   head() {
     return {
-      title: "Peter Ebner Finanzberatung Plus: Impressum",
+      title: "Peter Ebner Finanzberatung Plus: Impressum"
     };
   },
   data() {
