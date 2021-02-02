@@ -22,7 +22,8 @@ export default {
   data() {
     return {
       title: "Partner im Netzwerk",
-      subtitle: "Überblick der Partner",
+      subtitle:
+        "Als unabhängiger Finanzberater kann ich Ihnen die besten Konditionen unterschiedlicher Anbieter vorlegen. Sie können sich also von 20 Banken beraten lassen oder gleich zu mir kommen.",
       netzwerkLogos: [
         { imageUrl: require("@/assets/svg/partner-logos/Allianz.svg") },
         { imageUrl: require("@/assets/svg/partner-logos/Banco_Santander.svg") },
