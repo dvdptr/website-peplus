@@ -4,6 +4,7 @@
     <Hero />
     <About />
     <Leistungen />
+    <Claim />
     <Netzwerk />
     <Kontakt />
     <Footer />
@@ -14,6 +15,7 @@
 import Header from "~/components/Header.vue";
 import Hero from "~/components/Hero.vue";
 import About from "~/components/About.vue";
+import Claim from "~/components/Claim.vue";
 import Netzwerk from "~/components/Netzwerk.vue";
 import Kontakt from "~/components/Kontakt.vue";
 import Footer from "~/components/Footer.vue";
@@ -24,6 +26,7 @@ export default {
     Header,
     Hero,
     About,
+    Claim,
     Netzwerk,
     Kontakt,
     Footer,
