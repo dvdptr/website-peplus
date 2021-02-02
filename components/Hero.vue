@@ -1,14 +1,14 @@
 <template>
   <div
-    class="w-full md:max-w-screen-xl md:w-10/12 mx-auto border-b border-gray-400 flex pylg justify-around items-center"
+    class="w-full md:max-w-screen-xl md:w-10/12 mx-auto border-b border-gray-400 flex pb-16 pt-6 md:pt-16 justify-around items-center"
   >
-    <div class="w-full md:w-3/4 px-4 sm:py-1 md:py-6 text-center">
+    <div class="w-full md:w-2/3 px-4 md:py-6 text-center">
       <section>
         <p class="text-4xl md:text-5xl font-bold leading-tight pb-4">
           Finanzierung
           <br />leicht gemacht.
         </p>
-        <p class="text-gray-800 text-lg pb-4 leading-snug">
+        <p class="text-gray-800 text-lg pb-4 md:leading-snug">
           Sie benötigen individuelle Beratung für Ihre geplante Finanzierung?
           Als unabhängiger Finanzierungsspezialist bin ich Ihr Partner rund um
           die Themen Finanzierung, Finanzieren ohne Eigenkapital und

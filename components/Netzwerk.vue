@@ -4,7 +4,7 @@
       <Headline :title="title" :subtitle="subtitle" />
     </section>
 
-    <div class="w-5/6 md:w-5/6 mx-auto flex flex-wrap items-center">
+    <div class="w-5/6 md:w-3/4 mx-auto flex flex-wrap items-center">
       <div class="mx-auto" v-for="logo in netzwerkLogos" v-bind:key="logo">
         <img :src="logo.imageUrl" alt class="w-24 lg:w-24 m-4 lg:m-8" />
       </div>
