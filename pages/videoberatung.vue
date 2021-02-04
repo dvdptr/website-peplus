@@ -44,6 +44,11 @@ export default {
     Headline,
     Footer
   },
+  head() {
+    return {
+      title: "Peter Ebner Finanzberatung Plus: Videoberatung"
+    };
+  },
   data() {
     return {
       title: "Videoberatung",
