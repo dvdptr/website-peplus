@@ -9,10 +9,10 @@
             Unabhängige Beratung
           </p>
           <p class="text-base">
-            Als unabhängier Finanzberater ist es mir möglich aus einer Vielzahl
-            von Anbietern zu wählen. Somit erhalten Sie das bestmögliche
-            Angebot. Damit sparen Sie sich viel Zeit und erhalten individuelle
-            Angebote unkompliziert aus einer Hand.
+            Als unabhängiger Finanzberater ist es mir möglich aus einer Vielzahl
+            von Finanzierungs-Anbietern zu wählen. Somit erhalten Sie stets das
+            bestmögliche Angebot. Damit sparen Sie sich viel Zeit und erhalten
+            individuelle Angebote unkompliziert aus einer Hand.
           </p>
         </section>
       </div>
