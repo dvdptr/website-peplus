@@ -3,8 +3,8 @@
     <Header />
     <Hero />
     <About />
-    <Leistungen />
     <Claim />
+    <Leistungen />
     <Netzwerk />
     <Kontakt />
     <Footer />

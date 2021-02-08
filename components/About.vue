@@ -7,7 +7,7 @@
         Gemeinsam ans Ziel
       </h1>
       <section
-        class="text-gray-700 text-lg md:text-xl w-full md:w-10/12 text-center m-auto pt-6"
+        class="text-gray-800 text-lg md:text-xl w-full md:w-10/12 text-center m-auto pt-6"
       >
         <p>
           Seit mehr als 30 Jahren übe ich den Beruf des Finanzberaters mit
