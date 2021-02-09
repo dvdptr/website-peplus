@@ -1,8 +1,8 @@
 <template>
   <div
-    class="w-full md:max-w-screen-xl md:w-10/12 mx-auto border-b border-gray-400 flex pb-16 pt-6 md:pt-16 justify-around items-center"
+    class="w-full md:max-w-screen-xl md:w-10/12 mx-auto border-b border-gray-400 md:flex pb-16 pt-6 md:pt-16 md:justify-between md:items-center"
   >
-    <div class="w-full md:w-2/3 px-4 md:py-6 text-center">
+    <div class="w-11/12 md:w-1/2 mx-auto md:py-6 flex text-center md:text-left">
       <section>
         <p class="text-4xl md:text-5xl font-bold leading-tight pb-4">
           Finanzierung
@@ -33,6 +33,11 @@
           >
         </button>
       </section>
+    </div>
+
+    <div class="w-11/12 md:w-1/2 mx-auto pt-12 md:pt-0 flex md:pl-12">
+      <div id="gufb_widget_script"></div>
+      <div id="gufb_widget_content"></div>
     </div>
     <!-- <div class="w-1/2 px-4">
       <section>

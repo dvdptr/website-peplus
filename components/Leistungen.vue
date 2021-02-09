@@ -12,8 +12,8 @@
     <div class="flex flex-wrap justify-center">
       <div
         class="border border-gray-500 rounded-sm w-full md:w-5/12 p-4 mx-4 mb-3"
-        v-for="leistung in leistungenOverview"
-        v-bind:key="leistung"
+        v-for="(leistung, index) in leistungenOverview"
+        v-bind:key="index"
       >
         <div class>
           <div class="pb-2 font-bold">

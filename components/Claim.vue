@@ -26,6 +26,10 @@
         </p>
       </section>
     </div>
+    <!-- <div class="w-11/12 md:w-1/2 mx-auto pt-12 md:pt-16">
+      <div id="gufb_widget_script"></div>
+      <div id="gufb_widget_content"></div>
+    </div>-->
   </div></template
 >
 

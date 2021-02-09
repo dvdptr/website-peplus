@@ -25,7 +25,8 @@ export default {
         href:
           "https://fonts.googleapis.com/css2?family=Inter:wght@100;400;500;700&display=swap"
       }
-    ]
+    ],
+    script: [{ src: "/widget.js", body: true }]
   },
   /*
    ** Customize the progress-bar color
