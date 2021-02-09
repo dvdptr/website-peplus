@@ -35,17 +35,17 @@
       </section>
     </div>
 
-    <div class="w-11/12 md:w-1/2 mx-auto pt-12 md:pt-0 flex md:pl-12">
+    <!-- <div class="w-11/12 md:w-1/2 mx-auto pt-12 md:pt-0 flex md:pl-12">
       <div id="gufb_widget_script"></div>
       <div id="gufb_widget_content"></div>
-    </div>
-    <!-- <div class="w-1/2 px-4">
+    </div> -->
+    <div class="w-11/12 md:w-1/2 md:pl-10 pl-0 pt-12 md:pt-0 mx-auto">
       <section>
-        <div class="bg-blue-100">
-          <img src="~/assets/img/fam33.png" />
+        <div class=" ">
+          <img class="rounded-lg" src="~/assets/img/familie-hero.jpg" />
         </div>
       </section>
-    </div> -->
+    </div>
   </div>
 </template>
 
