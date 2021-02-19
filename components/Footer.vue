@@ -1,6 +1,6 @@
 <template>
   <div
-    class="w-full md:max-w-screen-xl border-b border-gray-400 px-4 md:px-0 py-8 mx-auto md:flex justify-center text-white leading-tight text-sm bg-gray-700"
+    class="w-full  border-b border-gray-400 px-4 md:px-0 py-8 mx-auto md:flex justify-center text-white leading-tight text-sm bg-gray-700"
   >
     <div class="">
       <section class="py-4 mr-12">

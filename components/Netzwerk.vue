@@ -1,10 +1,12 @@
 <template>
-  <div class="spacing border-b border-gray-400 pylg">
+  <div
+    class="w-full md:max-w-screen-xl md:w-10/12 mx-auto border-b border-gray-400 pylg"
+  >
     <section>
       <Headline :title="title" :subtitle="subtitle" />
     </section>
 
-    <div class="w-5/6 md:w-3/4 mx-auto flex flex-wrap items-center">
+    <div class="w-5/6  mx-auto flex flex-wrap items-center">
       <div
         class="mx-auto"
         v-for="(logo, index) in netzwerkLogos"

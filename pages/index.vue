@@ -42,7 +42,7 @@ export default {
           hid: "description",
           name: "description",
           content:
-            "Peter Ebner Finanzberatung Plus: Als unabhängiger Finanzierungsspezialist bin ich Ihr Partner rund um die Themen Finanzierung, Finanzieren ohne Eigenkapital und Privatkredite."
+            "Peter Ebner Finanzberatung Plus: Als unabhängiger Finanzierungsspezialist bin ich Ihr Partner rund um die Themen Finanzierung, Finanzieren ohne Eigenkapital und Privatkredite in der Region Trier, Saarbrücken und überregional per Videoberatung."
         }
       ]
     };

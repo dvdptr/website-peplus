@@ -1,5 +1,7 @@
 <template>
-  <div class="border-b border-gray-400 pylg">
+  <div
+    class="w-full md:max-w-screen-xl md:w-10/12 mx-auto border-b border-gray-400 pylg"
+  >
     <div class="flex mx-auto text-center items-center">
       <div class="w-11/12 md:w-5/12 items-center text-center mx-auto ">
         <section class="text-3xl md:text-4xl pb-2 font-bold">
