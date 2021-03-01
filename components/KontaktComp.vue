@@ -82,7 +82,8 @@ export default {
   data() {
     return {
       title: "Ich freue mich von Ihnen zu hören",
-      subtitle: ""
+      subtitle:
+        "Senden Sie eine Nachricht über das beigefügte Kontaktfeld oder wählen Sie eine der gelisteten Kontaktmöglichkeiten."
     };
   }
 };
