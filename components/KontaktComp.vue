@@ -23,14 +23,14 @@
       <div class="w-full md:w-1/2 md:px-8 md:py-0 py-10">
         <!-- Kontakt Form -->
         <form
-          name="contactus"
+          name="contactform"
           action="/bestaetigung"
           method="post"
           netlify
           netlify-honeypot="bot-field"
         >
           <!-- Hidden input to check for bots -->
-          <input type="hidden" name="form-name" value="contactus" />
+          <input type="hidden" name="form-name" value="contactform" />
           <div>
             <label for="name" class="block">Name:</label>
             <input
