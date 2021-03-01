@@ -1,14 +1,14 @@
 <template>
   <div
-    class="w-11/12 md:max-w-screen-xl md:w-10/12 mx-auto text-lg border-b border-gray-400 pylg"
+    class="w-11/12 md:max-w-screen-xl md:w-10/12 mx-auto text-lg border-b border-gray-400"
   >
-    <section class="mx-auto justify-center">
+    <section class="mx-auto justify-center w-5/6">
       <div>
         <Headline :title="title" :subtitle="subtitle" />
       </div>
     </section>
-    <div class="flex justify-center">
-      <div class="mx-auto text-center w-1/2">
+    <div class="md:flex justify-center">
+      <div class="mx-auto w-full md:w-1/2 md:px-8 block">
         <section class="py-4">
           <p class="font-bold pb-1">Home-Office</p>
           Finanzberatung Plus<br />Peter Ebner<br />Im Bungert 5 <br />54317
@@ -20,7 +20,7 @@
           Mobil: 0151 12 669 832 <br />e-Mail: peterebner@gmx.de
         </section>
       </div>
-      <div class="w-1/2">
+      <div class="w-full md:w-1/2 md:px-8 md:py-0 py-10">
         <!-- Kontakt Form -->
         <form
           name="contactus"
@@ -36,7 +36,7 @@
               type="text"
               name="name"
               required
-              class="title bg-gray-100 border border-gray-300 p-2 mb-4 outline-none"
+              class="title bg-gray-100 border border-gray-300 p-2 mb-4 outline-none w-full"
               placeholder="Ihr Name"
             />
           </div>
@@ -46,7 +46,7 @@
               type="email"
               name="email"
               required
-              class="title bg-gray-100 border border-gray-300 p-2 mb-4 outline-none"
+              class="title bg-gray-100 border border-gray-300 p-2 mb-4 outline-none w-full"
               placeholder="Ihre e-Mail"
             />
           </div>
@@ -55,7 +55,7 @@
             <textarea
               name="message"
               required
-              class="title bg-gray-100 border border-gray-300 p-2 mb-4 outline-none"
+              class="title bg-gray-100 border border-gray-300 p-2 mb-4 outline-none w-full"
               placeholder="Ihre Nachricht"
             ></textarea>
           </div>

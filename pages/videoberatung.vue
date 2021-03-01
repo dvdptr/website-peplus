@@ -1,7 +1,7 @@
 <template>
   <div class="font-medium">
     <Header />
-    <div class="pylg spacing border-b border-gray-400">
+    <div class="spacing border-b border-gray-400">
       <Headline :title="title" :subtitle="subtitle" />
       <!-- Grafik-Videoberatung -->
       <div class="md:w-full md:w-3/4">
