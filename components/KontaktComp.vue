@@ -1,6 +1,6 @@
 <template>
   <div
-    class="w-11/12 md:max-w-screen-xl md:w-10/12 mx-auto text-lg border-b border-gray-400"
+    class="w-11/12 md:max-w-screen-xl md:w-10/12 mx-auto text-lg border-b border-gray-400 md:py-16"
   >
     <section class="mx-auto justify-center w-5/6">
       <div>
@@ -24,6 +24,7 @@
         <!-- Kontakt Form -->
         <form
           name="contactus"
+          action="/bestaetigung"
           method="post"
           netlify
           netlify-honeypot="bot-field"
