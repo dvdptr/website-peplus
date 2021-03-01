@@ -24,7 +24,6 @@
         <!-- Kontakt Form -->
         <form
           name="contactform"
-          action="/bestaetigung"
           method="post"
           netlify
           netlify-honeypot="bot-field"
