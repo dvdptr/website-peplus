@@ -15,12 +15,7 @@
           <button
             class="bg-red-700 hover:bg-red-600 text-white font-bold py-2 px-4 rounded shadow"
           >
-            <a
-              href="https://ebner-finanzberatung.typeform.com/to/ZdjW8J"
-              target="_blank"
-              rel="noopener noreferrer"
-              >Kontaktformular</a
-            >
+            <NuxtLink to="/kontakt">Kontaktformular</NuxtLink>
           </button>
           <button
             class="bg-white hover:bg-red-100 text-gray-800 flex font-semibold py-2 px-4 border border-gray-400 rounded shadow ml-3"

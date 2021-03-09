@@ -14,9 +14,10 @@
           Freude aus. Zu einer erfolgreichen Beratung gehört eine Begegnung auf
           Augenhöhe. Hierzu berate ich zu umfassenden Möglichkeiten einer
           Finanzierung und übersetze komplexe Vorgänge in nachvollziehbare
-          Einzelschritte. Ihr Finanzierungsvorhaben begleite ich von der Planung
-          bis zur Umsetzung und stehe bei Fragen sowohl persönlich, telefonisch
-          wie auch überregional per Videoberatung zur Verfügung.
+          Einzelschritte. Ihr Finanzierungsvorhaben begleite ich im Großraum
+          Trier, Saarbrücken sowie bundesweit von der Planung bis zur Umsetzung
+          und stehe bei Fragen sowohl persönlich, telefonisch wie auch
+          überregional per Videoberatung zur Verfügung.
         </p>
       </section>
       <div class>
