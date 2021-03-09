@@ -100,7 +100,10 @@ export default {
     handleSubmit() {
       // This `data` object is what's passed to the createFormDataObj function. It needs all of your form fields, where the key is the name= attribute and the value is the computed value.
       const data = {
-        "form-name": "contactform"
+        "form-name": "contactform",
+        name: this.name,
+        email: this.email,
+        message: this.message
       };
       // This POSTs your encoded form to Netlify with the required headers (for text; headers will be different for POSTing a file) and, on success, redirects to the custom success page located at pages/thanks.vue
       fetch("/", {
