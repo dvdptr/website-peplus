@@ -36,6 +36,7 @@
             <input
               type="text"
               name="name"
+              v-model="name"
               required
               class="title bg-gray-100 border border-gray-300 p-2 mb-4 outline-none w-full"
               placeholder="Ihr Name"
@@ -43,9 +44,11 @@
           </div>
           <div>
             <label for="email" class="block">Email:</label>
+
             <input
               type="email"
               name="email"
+              v-model="email"
               required
               class="title bg-gray-100 border border-gray-300 p-2 mb-4 outline-none w-full"
               placeholder="Ihre e-Mail"
@@ -55,6 +58,7 @@
             <label for="message" class="block">Nachricht:</label>
             <textarea
               name="message"
+              v-model="message"
               required
               class="title bg-gray-100 border border-gray-300 p-2 mb-4 outline-none w-full"
               placeholder="Ihre Nachricht"
@@ -84,7 +88,10 @@ export default {
     return {
       title: "Ich freue mich von Ihnen zu hören",
       subtitle:
-        "Senden Sie eine Nachricht über das beigefügte Kontaktfeld oder wählen Sie eine der gelisteten Kontaktmöglichkeiten."
+        "Senden Sie eine Nachricht über das beigefügte Kontaktfeld oder wählen Sie eine der gelisteten Kontaktmöglichkeiten.",
+      name: "",
+      email: "",
+      message: ""
     };
   },
   methods: {
