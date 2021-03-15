@@ -37,7 +37,15 @@
     <div class="w-11/12 md:w-1/2 md:pl-10 pl-0 pt-12 md:pt-0 mx-auto">
       <section>
         <div class=" ">
-          <img class="rounded-lg" src="~/assets/img/familie-hero.jpg" />
+          <picture>
+            <source type="image/webp" srcset="~/assets/img/familie-hero.webp" />
+            <source type="image/jpeg" srcset="~/assets/img/familie-hero.jpg" />
+            <img
+              class="rounded-lg"
+              alt="Portrait of a laughing family"
+              src="~/assets/img/familie-hero.jpg"
+            />
+          </picture>
         </div>
       </section>
     </div>

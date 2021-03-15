@@ -21,11 +21,15 @@
         </p>
       </section>
       <div class>
-        <img
-          src="@/assets/img/peterEbner.jpg"
-          alt
-          class="rounded-md mx-auto w-56 my-10"
-        />
+        <picture>
+          <source type="image/webp" srcset="~/assets/img/peterEbner.webp" />
+          <source type="image/jpeg" srcset="~/assets/img/peterEbner.jpg" />
+          <img
+            src="~/assets/img/peterEbner.jpg"
+            alt="Portrait of Peter Ebner"
+            class="rounded-md mx-auto w-56 my-10"
+          />
+        </picture>
       </div>
       <section class="m-auto text-center">
         <p>Peter Ebner</p>
