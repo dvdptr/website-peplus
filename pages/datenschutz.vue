@@ -759,134 +759,9 @@
             <br />
           </li>
         </ul>
-        <p class="text-xl font-bold">
-          7. Datenschutzbestimmungen zu Einsatz und Verwendung von Google
-          Analytics (mit Anonymisierungsfunktion)
-        </p>
-        <br />
-        <p>
-          Der für die Verarbeitung Verantwortliche hat auf dieser Internetseite
-          die Komponente Google Analytics (mit Anonymisierungsfunktion)
-          integriert. Google Analytics ist ein Web-Analyse-Dienst. Web-Analyse
-          ist die Erhebung, Sammlung und Auswertung von Daten über das Verhalten
-          von Besuchern von Internetseiten. Ein Web-Analyse-Dienst erfasst unter
-          anderem Daten darüber, von welcher Internetseite eine betroffene
-          Person auf eine Internetseite gekommen ist (sogenannte Referrer), auf
-          welche Unterseiten der Internetseite zugegriffen oder wie oft und für
-          welche Verweildauer eine Unterseite betrachtet wurde. Eine Web-Analyse
-          wird überwiegend zur Optimierung einer Internetseite und zur
-          Kosten-Nutzen-Analyse von Internetwerbung eingesetzt.
-        </p>
 
         <br />
-        <p>
-          Betreibergesellschaft der Google-Analytics-Komponente ist die Google
-          Ireland Limited, Gordon House, Barrow Street, Dublin, D04 E5W5,
-          Ireland.
-        </p>
-
-        <br />
-        <p>
-          Der für die Verarbeitung Verantwortliche verwendet für die Web-Analyse
-          über Google Analytics den Zusatz "_gat._anonymizeIp". Mittels dieses
-          Zusatzes wird die IP-Adresse des Internetanschlusses der betroffenen
-          Person von Google gekürzt und anonymisiert, wenn der Zugriff auf
-          unsere Internetseiten aus einem Mitgliedstaat der Europäischen Union
-          oder aus einem anderen Vertragsstaat des Abkommens über den
-          Europäischen Wirtschaftsraum erfolgt.
-        </p>
-
-        <br />
-        <p>
-          Der Zweck der Google-Analytics-Komponente ist die Analyse der
-          Besucherströme auf unserer Internetseite. Google nutzt die gewonnenen
-          Daten und Informationen unter anderem dazu, die Nutzung unserer
-          Internetseite auszuwerten, um für uns Online-Reports, welche die
-          Aktivitäten auf unseren Internetseiten aufzeigen, zusammenzustellen,
-          und um weitere mit der Nutzung unserer Internetseite in Verbindung
-          stehende Dienstleistungen zu erbringen.
-        </p>
-
-        <br />
-        <br />
-        <p>
-          Google Analytics setzt ein Cookie auf dem informationstechnologischen
-          System der betroffenen Person. Was Cookies sind, wurde oben bereits
-          erläutert. Mit Setzung des Cookies wird Google eine Analyse der
-          Benutzung unserer Internetseite ermöglicht. Durch jeden Aufruf einer
-          der Einzelseiten dieser Internetseite, die durch den für die
-          Verarbeitung Verantwortlichen betrieben wird und auf welcher eine
-          Google-Analytics-Komponente integriert wurde, wird der Internetbrowser
-          auf dem informationstechnologischen System der betroffenen Person
-          automatisch durch die jeweilige Google-Analytics-Komponente
-          veranlasst, Daten zum Zwecke der Online-Analyse an Google zu
-          übermitteln. Im Rahmen dieses technischen Verfahrens erhält Google
-          Kenntnis über personenbezogene Daten, wie der IP-Adresse der
-          betroffenen Person, die Google unter anderem dazu dienen, die Herkunft
-          der Besucher und Klicks nachzuvollziehen und in der Folge
-          Provisionsabrechnungen zu ermöglichen.
-        </p>
-        <br />
-
-        <p>
-          Mittels des Cookies werden personenbezogene Informationen,
-          beispielsweise die Zugriffszeit, der Ort, von welchem ein Zugriff
-          ausging und die Häufigkeit der Besuche unserer Internetseite durch die
-          betroffene Person, gespeichert. Bei jedem Besuch unserer
-          Internetseiten werden diese personenbezogenen Daten, einschließlich
-          der IP-Adresse des von der betroffenen Person genutzten
-          Internetanschlusses, an Google in den Vereinigten Staaten von Amerika
-          übertragen. Diese personenbezogenen Daten werden durch Google in den
-          Vereinigten Staaten von Amerika gespeichert. Google gibt diese über
-          das technische Verfahren erhobenen personenbezogenen Daten unter
-          Umständen an Dritte weiter.
-        </p>
-
-        <br />
-        <p>
-          Die betroffene Person kann die Setzung von Cookies durch unsere
-          Internetseite, wie oben bereits dargestellt, jederzeit mittels einer
-          entsprechenden Einstellung des genutzten Internetbrowsers verhindern
-          und damit der Setzung von Cookies dauerhaft widersprechen. Eine solche
-          Einstellung des genutzten Internetbrowsers würde auch verhindern, dass
-          Google ein Cookie auf dem informationstechnologischen System der
-          betroffenen Person setzt. Zudem kann ein von Google Analytics bereits
-          gesetzter Cookie jederzeit über den Internetbrowser oder andere
-          Softwareprogramme gelöscht werden.
-        </p>
-
-        <br />
-        <p>
-          Ferner besteht für die betroffene Person die Möglichkeit, einer
-          Erfassung der durch Google Analytics erzeugten, auf eine Nutzung
-          dieser Internetseite bezogenen Daten sowie der Verarbeitung dieser
-          Daten durch Google zu widersprechen und eine solche zu verhindern.
-          Hierzu muss die betroffene Person ein Browser-Add-On unter dem Link
-          https://tools.google.com/dlpage/gaoptout herunterladen und
-          installieren. Dieses Browser-Add-On teilt Google Analytics über
-          JavaScript mit, dass keine Daten und Informationen zu den Besuchen von
-          Internetseiten an Google Analytics übermittelt werden dürfen. Die
-          Installation des Browser-Add-Ons wird von Google als Widerspruch
-          gewertet. Wird das informationstechnologische System der betroffenen
-          Person zu einem späteren Zeitpunkt gelöscht, formatiert oder neu
-          installiert, muss durch die betroffene Person eine erneute
-          Installation des Browser-Add-Ons erfolgen, um Google Analytics zu
-          deaktivieren. Sofern das Browser-Add-On durch die betroffene Person
-          oder einer anderen Person, die ihrem Machtbereich zuzurechnen ist,
-          deinstalliert oder deaktiviert wird, besteht die Möglichkeit der
-          Neuinstallation oder der erneuten Aktivierung des Browser-Add-Ons.
-        </p>
-        <br />
-
-        <p>
-          Weitere Informationen und die geltenden Datenschutzbestimmungen von
-          Google können unter https://www.google.de/intl/de/policies/privacy/
-          und unter http://www.google.com/analytics/terms/de.html abgerufen
-          werden. Google Analytics wird unter diesem Link
-          https://www.google.com/intl/de_de/analytics/ genauer erläutert.
-        </p>
-        <br />
-        <p class="text-xl font-bold">8. Google Web Fonts</p>
+        <p class="text-xl font-bold">7. Google Web Fonts</p>
         <br />
         <p>
           Unsere Website verwendet Web Fonts von Google. Anbieter ist die Google
@@ -912,7 +787,7 @@
 
         <br />
         <p class="text-xl font-bold">
-          9. Datenschutzbestimmungen zu Einsatz und Verwendung von Xing
+          8. Datenschutzbestimmungen zu Einsatz und Verwendung von Xing
         </p>
         <br />
         <p>
@@ -986,7 +861,7 @@
         </p>
         <br />
 
-        <p class="text-xl font-bold">10. Rechtsgrundlage der Verarbeitung</p>
+        <p class="text-xl font-bold">9. Rechtsgrundlage der Verarbeitung</p>
         <br />
         <p>
           Art. 6 I lit. a DS-GVO dient unserem Unternehmen als Rechtsgrundlage
@@ -1027,7 +902,7 @@
 
         <br />
         <p class="text-xl font-bold">
-          11. Berechtigte Interessen an der Verarbeitung, die von dem
+          10. Berechtigte Interessen an der Verarbeitung, die von dem
           Verantwortlichen oder einem Dritten verfolgt werden
         </p>
         <br />
@@ -1040,7 +915,7 @@
         <br />
 
         <p class="text-xl font-bold">
-          12. Dauer, für die die personenbezogenen Daten gespeichert werden
+          11. Dauer, für die die personenbezogenen Daten gespeichert werden
         </p>
         <br />
         <p>
@@ -1053,7 +928,7 @@
 
         <br />
         <p class="text-xl font-bold">
-          13. Gesetzliche oder vertragliche Vorschriften zur Bereitstellung der
+          12. Gesetzliche oder vertragliche Vorschriften zur Bereitstellung der
           personenbezogenen Daten; Erforderlichkeit für den Vertragsabschluss;
           Verpflichtung der betroffenen Person, die personenbezogenen Daten
           bereitzustellen; mögliche Folgen der Nichtbereitstellung
@@ -1101,10 +976,6 @@
         </p>
 
         <br />
-        <!-- <div v-for="auflistung in auflistungImpressum" v-bind:key="auflistung">
-          <p class="pb-4 font-bold">{{ auflistung.headline }}</p>
-          <p v-html="auflistung.text"></p>
-        </div> -->
       </div>
     </div>
     <Kontakt />
@@ -1129,15 +1000,7 @@ export default {
     };
   },
   data() {
-    return {
-      auflistungImpressum: [
-        {
-          headline: "Nutzung von Google Analytics",
-          text:
-            "Wir verwenden Google Analytics, um die Website-Nutzung zu analysieren. Die daraus gewonnenen Daten werden genutzt, um unsere Website sowie Werbemaßnahmen zu optimieren. Google Analytics ist ein Webanalysedienst, der von Google Inc. (1600 Amphitheatre Parkway, Mountain View, CA 94043, United States) betrieben und bereitgestellt wird. Google verarbeitet die Daten zur Website-Nutzung in unserem Auftrag und verpflichtet sich vertraglich zu Maßnahmen, um die Vertraulichkeit der verarbeiteten Daten zu gewährleisten. Während Ihres Website-Besuchs werden u.a. folgende Daten aufgezeichnet: Aufgerufene Seiten, Bestellungen inkl. des Umsatzes und der bestellten Produkte, Die Erreichung von Website-Zielen (z.B. Kontaktanfragen und Newsletter-Anmeldungen), Ihr Verhalten auf den Seiten (beispielsweise Klicks, Scroll-Verhalten und Verweildauer), Ihr ungefährer Standort (Land und Stadt), Ihre IP-Adresse (in gekürzter Form, sodass keine eindeutige Zuordnung möglich ist), Technische Informationen wie Browser, Internetanbieter, Endgerät und Bildschirmauflösung, Herkunftsquelle Ihres Besuchs (d.h. über welche Website bzw. über welches Werbemittel Sie zu uns gekommen sind). Diese Daten werden an einen Server von Google in den USA übertragen. Google beachtet dabei die Datenschutzbestimmungen des „EU-US Privacy Shield“-Abkommens. Google Analytics speichert Cookies in Ihrem Webbrowser für die Dauer von zwei Jahren seit Ihrem letzten Besuch. Diese Cookies enthaltene eine zufallsgenerierte User-ID, mit der Sie bei zukünftigen Website-Besuchen wiedererkannt werden können. Die aufgezeichneten Daten werden zusammen mit der zufallsgenerierten User-ID gespeichert, was die Auswertung pseudonymer Nutzerprofile ermöglicht. Diese nutzerbezogenen Daten werden automatisch nach 14 Monaten gelöscht. Sonstige Daten bleiben in aggregierter Form unbefristet gespeichert."
-        }
-      ]
-    };
+    return {};
   }
 };
 </script>
