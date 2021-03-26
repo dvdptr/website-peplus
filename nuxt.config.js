@@ -27,6 +27,7 @@ export default {
     ],
     script: [{ src: "/widget.js", body: true }]
   },
+
   /*
    ** Customize the progress-bar color
    */
