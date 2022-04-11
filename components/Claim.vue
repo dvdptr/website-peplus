@@ -26,6 +26,10 @@
         </p>
       </section>
     </div>
+
+<div class="w-11/12 md:w-3/4 mx-auto pt-12 md:pt-16 items-center"><a href="https://www.provenexpert.com/finanzberatung-plus/?utm_source=Widget&utm_medium=Widget&utm_campaign=Widget" title="Kundenbewertungen &amp; Erfahrungen zu Finanzberatung PLUS. Mehr Infos anzeigen." target="_blank" rel="noopener noreferrer"><img class="mx-auto" src="https://images.provenexpert.com/3a/81/5a81c4561f633d5d5cee78f4982c/widget_recommendation_465_0.png?t=1649667712218" alt="Kundenbewertungen &amp; Erfahrungen zu Finanzberatung PLUS. Mehr Infos anzeigen."/></a></div>
+
+    
     <div class="w-11/12 md:w-1/2 mx-auto pt-12 md:pt-16">
       <div id="gufb_widget_script"></div>
       <div id="gufb_widget_content"></div>
