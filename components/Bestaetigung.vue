@@ -1,19 +1,19 @@
 <template>
   <div
-    class="w-11/12 md:max-w-screen-xl md:w-10/12 mx-auto text-lg border-b border-gray-400 md:py-16"
+    class="border-b mx-auto w-11/12 border-gray-400 text-lg md:w-10/12 md:max-w-screen-xl md:py-16"
   >
-    <section class="mx-auto justify-center w-5/6">
+    <section class="mx-auto w-5/6 justify-center">
       <div>
         <Headline :title="title" :subtitle="subtitle" />
       </div>
     </section>
 
-    <div class="w-full md:w-2/3 mx-auto text-center">
-      <p class=" text-3xl">
+    <div class="mx-auto w-full text-center md:w-2/3">
+      <p class="text-3xl">
         Ihre Anfrage wurde erfolgreich versendet. <br />Ich werde mich in Kürze
         bei Ihnen melden.
       </p>
-      <section class="pt-10 hover:text-red-700 underline pb-12 md:pb-0">
+      <section class="pt-10 pb-12 underline hover:text-red-700 md:pb-0">
         <a href="https://finanzberatung-ebner.de">Zurück zur Startseite</a>
       </section>
     </div>
@@ -25,14 +25,14 @@ import Headline from "@/components/elements/Headline.vue";
 
 export default {
   components: {
-    Headline
+    Headline,
   },
   data() {
     return {
       title: "Vielen Dank",
-      subtitle: ""
+      subtitle: "",
     };
-  }
+  },
 };
 </script>
 

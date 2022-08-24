@@ -1,12 +1,12 @@
 <template>
-  <div id="header" class="py-2 border-t-4 border-red-700">
+  <div id="header" class="border-t-4 border-red-700 py-2">
     <!-- Header NavBar total -->
     <div
-      class="w-11/12 md:max-w-screen-xl md:w-10/12 mx-auto md:border-b border-gray-400 pb-2 pt-2"
+      class="md:border-b mx-auto w-11/12 border-gray-400 pb-2 pt-2 md:w-10/12 md:max-w-screen-xl"
     >
       <nav
         id="nav"
-        class="w-full flex items-center justify-between flex-wrap py-6"
+        class="flex w-full flex-wrap items-center justify-between py-6"
       >
         <!-- NavBar Logo -->
         <div>
@@ -18,11 +18,11 @@
         <div class="block lg:hidden">
           <button
             @click="handleClick"
-            class="flex items-center px-3 py-2 border rounded text-gray-800 border-gray-700 hover:text-gray-700 hover:border-gray-700"
+            class="border rounded flex items-center border-gray-700 px-3 py-2 text-gray-800 hover:border-gray-700 hover:text-gray-700"
           >
-            <p class="text-xs pr-2">MENÜ</p>
+            <p class="pr-2 text-xs">MENÜ</p>
             <svg
-              class="fill-current h-3 w-3"
+              class="h-3 w-3 fill-current"
               viewBox="0 0 20 20"
               xmlns="http://www.w3.org/2000/svg"
             >
@@ -34,18 +34,18 @@
         <!-- RouterLinks DE PL RO RU -->
         <div
           :class="isOpen ? 'block' : 'hidden'"
-          class="w-full flex-grow lg:flex lg:items-center lg:w-auto text-gray-800 text-center md:text-right"
+          class="flex-grow w-full text-center text-gray-800 md:text-right lg:flex lg:w-auto lg:items-center"
         >
           <div class="lg:flex-grow">
             <!-- RouterLink Deutsch -->
             <nuxt-link
-              class="block mt-4 lg:inline-block lg:mt-0 hover:text-gray-900 px-2 py-2 border-b border-gray-300 md:border-none pb-2 md:pb-0"
+              class="border-b mt-4 block border-gray-300 px-2 py-2 pb-2 hover:text-gray-900 md:border-none md:pb-0 lg:mt-0 lg:inline-block"
               to="/videoberatung"
               >Videoberatung</nuxt-link
             >
 
             <nuxt-link
-              class="block mt-4 lg:inline-block lg:mt-0 hover:text-gray-900 px-2 py-2 border-b border-gray-300 md:border-none pb-2 md:pb-0"
+              class="border-b mt-4 block border-gray-300 px-2 py-2 pb-2 hover:text-gray-900 md:border-none md:pb-0 lg:mt-0 lg:inline-block"
               to="/kontakt"
               >Kontakt</nuxt-link
             >
@@ -57,7 +57,6 @@
               >Kontakt</a
             >
           </div> -->
-          
         </div>
       </nav>
     </div>
@@ -69,18 +68,18 @@ import Logo from "~/components/Logo.vue";
 
 export default {
   components: {
-    Logo
+    Logo,
   },
   data() {
     return {
-      isOpen: false
+      isOpen: false,
     };
   },
   methods: {
     handleClick() {
       this.isOpen = !this.isOpen;
-    }
-  }
+    },
+  },
 };
 </script>
 

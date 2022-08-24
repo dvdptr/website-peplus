@@ -1,13 +1,13 @@
 <template>
   <div
-    class="w-full md:max-w-screen-xl md:w-10/12 mx-auto border-b border-gray-400 pylg"
+    class="border-b pylg mx-auto w-full border-gray-400 md:w-10/12 md:max-w-screen-xl"
   >
-    <section class="w-11/12 mx-auto">
-      <h1 class="text-4xl md:text-5xl leading-snug font-black text-center">
+    <section class="mx-auto w-11/12">
+      <h1 class="text-center text-4xl font-black leading-snug md:text-5xl">
         Gemeinsam ans Ziel
       </h1>
       <section
-        class="text-gray-800 text-lg md:text-xl w-full md:w-10/12 text-center m-auto pt-6"
+        class="m-auto w-full pt-6 text-center text-lg text-gray-800 md:w-10/12 md:text-xl"
       >
         <p>
           Seit mehr als 30 Jahren übe ich den Beruf des Finanzberaters mit
@@ -27,7 +27,7 @@
           <img
             src="~/assets/img/peterEbner.jpg"
             alt="Portrait of Peter Ebner"
-            class="rounded-md mx-auto w-56 my-10"
+            class="mx-auto my-10 w-56 rounded-md"
           />
         </picture>
       </div>
@@ -44,8 +44,8 @@ import Headline from "@/components/elements/Headline.vue";
 
 export default {
   components: {
-    Headline
-  }
+    Headline,
+  },
 };
 </script>
 

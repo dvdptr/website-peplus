@@ -1,18 +1,18 @@
 <template>
   <div
-    class="w-full md:max-w-screen-xl md:w-10/12 mx-auto border-b border-gray-400 pylg"
+    class="border-b pylg mx-auto w-full border-gray-400 md:w-10/12 md:max-w-screen-xl"
   >
     <section>
       <Headline :title="title" :subtitle="subtitle" />
     </section>
 
-    <div class="w-5/6  mx-auto flex flex-wrap items-center">
+    <div class="mx-auto flex w-5/6 flex-wrap items-center">
       <div
         class="mx-auto"
         v-for="(logo, index) in netzwerkLogos"
         v-bind:key="index"
       >
-        <img :src="logo.imageUrl" alt class="w-24 lg:w-24 m-4 lg:m-8" />
+        <img :src="logo.imageUrl" alt class="m-4 w-24 lg:m-8 lg:w-24" />
       </div>
     </div>
   </div>
@@ -23,7 +23,7 @@ import Headline from "@/components/elements/Headline.vue";
 
 export default {
   components: {
-    Headline
+    Headline,
   },
   data() {
     return {
@@ -35,24 +35,24 @@ export default {
         { imageUrl: require("@/assets/svg/partner-logos/Banco_Santander.svg") },
         { imageUrl: require("@/assets/svg/partner-logos/Commerzbank.svg") },
         {
-          imageUrl: require("@/assets/svg/partner-logos/BHW_Bausparkasse.svg")
+          imageUrl: require("@/assets/svg/partner-logos/BHW_Bausparkasse.svg"),
         },
         { imageUrl: require("@/assets/svg/partner-logos/Postbank.svg") },
         { imageUrl: require("@/assets/svg/partner-logos/Wüstenrot.svg") },
         { imageUrl: require("@/assets/svg/partner-logos/DEVK.svg") },
         { imageUrl: require("@/assets/svg/partner-logos/DSL_Bank_logo.svg") },
         {
-          imageUrl: require("@/assets/svg/partner-logos/Hanseatic_Bank_Logo.svg")
+          imageUrl: require("@/assets/svg/partner-logos/Hanseatic_Bank_Logo.svg"),
         },
         { imageUrl: require("@/assets/svg/partner-logos/HDI-Logo.svg") },
         { imageUrl: require("@/assets/svg/partner-logos/Targobank_logo.svg") },
         { imageUrl: require("@/assets/svg/partner-logos/Signal-iduna.svg") },
         { imageUrl: require("@/assets/svg/partner-logos/Alte_Leipziger.svg") },
         { imageUrl: require("@/assets/svg/partner-logos/Gothaer.svg") },
-        { imageUrl: require("@/assets/svg/partner-logos/Zurich_Logo.svg") }
-      ]
+        { imageUrl: require("@/assets/svg/partner-logos/Zurich_Logo.svg") },
+      ],
     };
-  }
+  },
 };
 </script>
 

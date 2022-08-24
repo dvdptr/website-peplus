@@ -1,27 +1,27 @@
 <template>
   <div
-    class="w-full md:max-w-screen-xl md:w-10/12 mx-auto border-b border-gray-400 md:flex pb-16 pt-6 md:pt-16 md:justify-between md:items-center"
+    class="border-b mx-auto w-full border-gray-400 pb-16 pt-6 md:flex md:w-10/12 md:max-w-screen-xl md:items-center md:justify-between md:pt-16"
   >
-    <div class="w-11/12 md:w-1/2 mx-auto md:py-6 flex text-center md:text-left">
+    <div class="mx-auto flex w-11/12 text-center md:w-1/2 md:py-6 md:text-left">
       <section>
-        <p class="text-4xl md:text-5xl font-bold leading-tight pb-4">
+        <p class="pb-4 text-4xl font-bold leading-tight md:text-5xl">
           Finanzierung
           <br />leicht gemacht.
         </p>
-        <p class="text-gray-800 text-lg pb-4 md:leading-snug">
+        <p class="pb-4 text-lg text-gray-800 md:leading-snug">
           Sie benötigen individuelle Beratung für Ihre geplante Finanzierung?
           Als unabhängiger Finanzierungsspezialist bin ich Ihr Partner rund um
           die Themen Finanzierung, Finanzieren ohne Eigenkapital und
           Privatkredite im Großraum Trier, Saarbrücken und bundesweit.
         </p>
-        <p class="text-gray-800 text-lg pb-6">Ich bin gerne für Sie da.</p>
+        <p class="pb-6 text-lg text-gray-800">Ich bin gerne für Sie da.</p>
         <button
-          class="bg-red-700 hover:bg-red-600 text-white font-bold py-2 px-4 rounded shadow"
+          class="rounded shadow bg-red-700 py-2 px-4 font-bold text-white hover:bg-red-600"
         >
           <NuxtLink to="/kontakt">Kontaktformular</NuxtLink>
         </button>
         <button
-          class="bg-white hover:bg-red-100 text-gray-800 font-semibold py-2 px-4 border border-gray-400 rounded shadow ml-3"
+          class="border rounded shadow ml-3 border-gray-400 bg-white py-2 px-4 font-semibold text-gray-800 hover:bg-red-100"
         >
           <a href="mailto:peterebner@gmx.de" target="_blank"
             >e-Mail schreiben</a
@@ -34,7 +34,7 @@
       <div id="gufb_widget_script"></div>
       <div id="gufb_widget_content"></div>
     </div> -->
-    <div class="w-11/12 md:w-1/2 md:pl-10 pl-0 pt-12 md:pt-0 mx-auto">
+    <div class="mx-auto w-11/12 pl-0 pt-12 md:w-1/2 md:pl-10 md:pt-0">
       <section>
         <div class=" ">
           <picture>

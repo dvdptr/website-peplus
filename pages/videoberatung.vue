@@ -6,18 +6,18 @@
       <!-- Grafik-Videoberatung -->
       <div class="md:w-full md:w-3/4">
         <div
-          class="mx-auto p-0 md:p-8 my-6 flex-none md:flex justify-center items-center"
+          class="mx-auto my-6 flex-none items-center justify-center p-0 md:flex md:p-8"
         >
           <div class="w-full md:w-1/2">
             <img src="@/assets/img/videoberatung-DE.png" alt class="mx-auto" />
           </div>
           <div class="w-full md:w-1/3">
             <div
-              class="px-4 flex mb-4 items-center"
+              class="mb-4 flex items-center px-4"
               v-for="vorteil in vorteileVideoberatung"
               v-bind:key="vorteil"
             >
-              <img :src="vorteil.iconUrl" alt class="w-3 h-3 mx-4" />
+              <img :src="vorteil.iconUrl" alt class="mx-4 h-3 w-3" />
               {{ vorteil.text }}
             </div>
           </div>
@@ -42,11 +42,11 @@ export default {
     Header,
     Kontakt,
     Headline,
-    Footer
+    Footer,
   },
   head() {
     return {
-      title: "Peter Ebner Finanzberatung Plus: Videoberatung"
+      title: "Peter Ebner Finanzberatung Plus: Videoberatung",
     };
   },
   data() {
@@ -57,27 +57,27 @@ export default {
       vorteileVideoberatung: [
         {
           text: "Wohnort unabhängig",
-          iconUrl: require("@/assets/svg/chevron-r.svg")
+          iconUrl: require("@/assets/svg/chevron-r.svg"),
         },
         {
           text: "Flexible Beratungstermine",
-          iconUrl: require("@/assets/svg/chevron-r.svg")
+          iconUrl: require("@/assets/svg/chevron-r.svg"),
         },
         {
           text: "Bequem von Zuhause aus",
-          iconUrl: require("@/assets/svg/chevron-r.svg")
+          iconUrl: require("@/assets/svg/chevron-r.svg"),
         },
         {
           text: "Für Sie kostenfrei",
-          iconUrl: require("@/assets/svg/chevron-r.svg")
+          iconUrl: require("@/assets/svg/chevron-r.svg"),
         },
         {
           text: "Ohne Installation ausführbar",
-          iconUrl: require("@/assets/svg/chevron-r.svg")
-        }
-      ]
+          iconUrl: require("@/assets/svg/chevron-r.svg"),
+        },
+      ],
     };
-  }
+  },
 };
 </script>
 

@@ -1,24 +1,24 @@
 <template>
   <div
-    class="w-full md:max-w-screen-xl md:w-10/12 mx-auto border-b border-gray-400 pylg"
+    class="border-b pylg mx-auto w-full border-gray-400 md:w-10/12 md:max-w-screen-xl"
   >
-    <div class="flex mx-auto text-center items-center">
-      <div class="w-11/12 md:w-5/12 items-center text-center mx-auto ">
-        <section class="text-3xl md:text-4xl pb-2 font-bold">
+    <div class="mx-auto flex items-center text-center">
+      <div class="mx-auto w-11/12 items-center text-center md:w-5/12">
+        <section class="pb-2 text-3xl font-bold md:text-4xl">
           Sie haben Fragen?
         </section>
-        <section class="text-normal text-gray-700 pb-6">
+        <section class="text-normal pb-6 text-gray-700">
           Gerne berate ich Sie in einem persönlichen Gespräch. Nehmen Sie ganz
           unverbindlich Kontakt zu mir auf, ich freue mich von Ihnen zu hören!
         </section>
-        <section class="flex leading-tight justify-center">
+        <section class="flex justify-center leading-tight">
           <button
-            class="bg-red-700 hover:bg-red-600 text-white font-bold py-2 px-4 rounded shadow"
+            class="rounded shadow bg-red-700 py-2 px-4 font-bold text-white hover:bg-red-600"
           >
             <NuxtLink to="/kontakt">Kontaktformular</NuxtLink>
           </button>
           <button
-            class="bg-white hover:bg-red-100 text-gray-800 flex font-semibold py-2 px-4 border border-gray-400 rounded shadow ml-3"
+            class="border rounded shadow ml-3 flex border-gray-400 bg-white py-2 px-4 font-semibold text-gray-800 hover:bg-red-100"
           >
             <a href="mailto:peterebner@gmx.de" target="_blank"
               >e-Mail schreiben</a

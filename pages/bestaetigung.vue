@@ -18,13 +18,13 @@ export default {
     Header,
     Bestaetigung,
     Kontakt,
-    Footer
+    Footer,
   },
   head() {
     return {
-      title: "Peter Ebner Finanzberatung Plus: Kontakt"
+      title: "Peter Ebner Finanzberatung Plus: Kontakt",
     };
-  }
+  },
 };
 </script>
 

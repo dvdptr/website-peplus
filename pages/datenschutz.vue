@@ -2,9 +2,9 @@
   <div class="font-medium">
     <Header />
     <div
-      class="w-11/12 md:max-w-screen-xl md:w-10/12 mx-auto pylg border-b border-gray-400"
+      class="pylg border-b mx-auto w-11/12 border-gray-400 md:w-10/12 md:max-w-screen-xl"
     >
-      <p class="text-xl pb-6">Datenschutzerklärung</p>
+      <p class="pb-6 text-xl">Datenschutzerklärung</p>
       <div class="comp-width">
         <p>
           Wir freuen uns sehr über Ihr Interesse an unserem Unternehmen.
@@ -68,7 +68,7 @@
         <br />
         <ul style="list-style: none">
           <li>
-            <h4>a)    personenbezogene Daten</h4>
+            <h4>a) personenbezogene Daten</h4>
             <br />
             <p>
               Personenbezogene Daten sind alle Informationen, die sich auf eine
@@ -85,7 +85,7 @@
             <br />
           </li>
           <li>
-            <h4>b)    betroffene Person</h4>
+            <h4>b) betroffene Person</h4>
             <br />
             <p>
               Betroffene Person ist jede identifizierte oder identifizierbare
@@ -95,7 +95,7 @@
             <br />
           </li>
           <li>
-            <h4>c)    Verarbeitung</h4>
+            <h4>c) Verarbeitung</h4>
             <br />
             <p>
               Verarbeitung ist jeder mit oder ohne Hilfe automatisierter
@@ -110,7 +110,7 @@
             <br />
           </li>
           <li>
-            <h4>d)    Einschränkung der Verarbeitung</h4>
+            <h4>d) Einschränkung der Verarbeitung</h4>
             <br />
             <p>
               Einschränkung der Verarbeitung ist die Markierung gespeicherter
@@ -120,7 +120,7 @@
             <br />
           </li>
           <li>
-            <h4>e)    Profiling</h4>
+            <h4>e) Profiling</h4>
             <br />
             <p>
               Profiling ist jede Art der automatisierten Verarbeitung
@@ -136,7 +136,7 @@
             <br />
           </li>
           <li>
-            <h4>f)     Pseudonymisierung</h4>
+            <h4>f) Pseudonymisierung</h4>
             <br />
             <p>
               Pseudonymisierung ist die Verarbeitung personenbezogener Daten in
@@ -153,7 +153,7 @@
           </li>
           <li>
             <h4>
-              g)    Verantwortlicher oder für die Verarbeitung Verantwortlicher
+              g) Verantwortlicher oder für die Verarbeitung Verantwortlicher
             </h4>
             <br />
             <p>
@@ -170,7 +170,7 @@
             <br />
           </li>
           <li>
-            <h4>h)    Auftragsverarbeiter</h4>
+            <h4>h) Auftragsverarbeiter</h4>
             <br />
             <p>
               Auftragsverarbeiter ist eine natürliche oder juristische Person,
@@ -180,7 +180,7 @@
             <br />
           </li>
           <li>
-            <h4>i)      Empfänger</h4>
+            <h4>i) Empfänger</h4>
             <br />
             <p>
               Empfänger ist eine natürliche oder juristische Person, Behörde,
@@ -194,7 +194,7 @@
             <br />
           </li>
           <li>
-            <h4>j)      Dritter</h4>
+            <h4>j) Dritter</h4>
             <br />
             <p>
               Dritter ist eine natürliche oder juristische Person, Behörde,
@@ -207,7 +207,7 @@
             <br />
           </li>
           <li>
-            <h4>k)    Einwilligung</h4>
+            <h4>k) Einwilligung</h4>
             <br />
             <p>
               Einwilligung ist jede von der betroffenen Person freiwillig für
@@ -333,9 +333,9 @@
 
         <p class="text-xl font-bold">6. Rechte der betroffenen Person</p>
         <br />
-        <ul style="list-style: none;">
+        <ul style="list-style: none">
           <li>
-            <h4>a)    Recht auf Bestätigung</h4>
+            <h4>a) Recht auf Bestätigung</h4>
             <br />
             <p>
               Jede betroffene Person hat das vom Europäischen Richtlinien- und
@@ -349,7 +349,7 @@
             <br />
           </li>
           <li>
-            <h4>b)    Recht auf Auskunft</h4>
+            <h4>b) Recht auf Auskunft</h4>
             <br />
             <p>
               Jede von der Verarbeitung personenbezogener Daten betroffene
@@ -430,7 +430,7 @@
             <br />
           </li>
           <li>
-            <h4>c)    Recht auf Berichtigung</h4>
+            <h4>c) Recht auf Berichtigung</h4>
             <br />
             <p>
               Jede von der Verarbeitung personenbezogener Daten betroffene
@@ -451,7 +451,7 @@
             </p>
           </li>
           <li>
-            <h4>d)    Recht auf Löschung (Recht auf Vergessen werden)</h4>
+            <h4>d) Recht auf Löschung (Recht auf Vergessen werden)</h4>
             <br />
             <p>
               Jede von der Verarbeitung personenbezogener Daten betroffene
@@ -463,7 +463,7 @@
             </p>
 
             <br />
-            <ul style="list-style: none;">
+            <ul style="list-style: none">
               <li>
                 Die personenbezogenen Daten wurden für solche Zwecke erhoben
                 oder auf sonstige Weise verarbeitet, für welche sie nicht mehr
@@ -534,7 +534,7 @@
             <br />
           </li>
           <li>
-            <h4>e)    Recht auf Einschränkung der Verarbeitung</h4>
+            <h4>e) Recht auf Einschränkung der Verarbeitung</h4>
             <br />
             <p>
               Jede von der Verarbeitung personenbezogener Daten betroffene
@@ -545,7 +545,7 @@
             </p>
             <br />
 
-            <ul style="list-style: none;">
+            <ul style="list-style: none">
               <li>
                 Die Richtigkeit der personenbezogenen Daten wird von der
                 betroffenen Person bestritten, und zwar für eine Dauer, die es
@@ -587,7 +587,7 @@
             <br />
           </li>
           <li>
-            <h4>f)     Recht auf Datenübertragbarkeit</h4>
+            <h4>f) Recht auf Datenübertragbarkeit</h4>
             <br />
             <p>
               Jede von der Verarbeitung personenbezogener Daten betroffene
@@ -627,7 +627,7 @@
             <br />
           </li>
           <li>
-            <h4>g)    Recht auf Widerspruch</h4>
+            <h4>g) Recht auf Widerspruch</h4>
             <br />
             <p>
               Jede von der Verarbeitung personenbezogener Daten betroffene
@@ -691,7 +691,7 @@
           </li>
           <li>
             <h4>
-              h)    Automatisierte Entscheidungen im Einzelfall einschließlich
+              h) Automatisierte Entscheidungen im Einzelfall einschließlich
               Profiling
             </h4>
             <br />
@@ -738,8 +738,7 @@
           </li>
           <li>
             <h4>
-              i)      Recht auf Widerruf einer datenschutzrechtlichen
-              Einwilligung
+              i)Recht auf Widerruf einer datenschutzrechtlichen Einwilligung
             </h4>
             <br />
             <p>
@@ -992,16 +991,16 @@ export default {
   components: {
     Header,
     Kontakt,
-    Footer
+    Footer,
   },
   head() {
     return {
-      title: "Peter Ebner Finanzberatung Plus: Datenschutz"
+      title: "Peter Ebner Finanzberatung Plus: Datenschutz",
     };
   },
   data() {
     return {};
-  }
+  },
 };
 </script>
 

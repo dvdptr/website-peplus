@@ -1,26 +1,26 @@
 <template>
   <div
-    class="w-11/12 md:max-w-screen-xl md:w-10/12 mx-auto text-lg border-b border-gray-400 md:py-16"
+    class="border-b mx-auto w-11/12 border-gray-400 text-lg md:w-10/12 md:max-w-screen-xl md:py-16"
   >
-    <section class="mx-auto justify-center w-5/6">
+    <section class="mx-auto w-5/6 justify-center">
       <div>
         <Headline :title="title" :subtitle="subtitle" />
       </div>
     </section>
-    <div class="md:flex justify-center">
-      <div class="mx-auto w-full md:w-1/2 md:px-8 block">
+    <div class="justify-center md:flex">
+      <div class="mx-auto block w-full md:w-1/2 md:px-8">
         <section class="py-4">
-          <p class="font-bold pb-1">Home-Office</p>
+          <p class="pb-1 font-bold">Home-Office</p>
           Finanzberatung Plus<br />Peter Ebner<br />Im Bungert 5 <br />54317
           Herl
           <br />
         </section>
         <section class="py-4">
-          <p class="font-bold pb-1">Kontakt</p>
+          <p class="pb-1 font-bold">Kontakt</p>
           Mobil: 0151 12 669 832 <br />e-Mail: peterebner@gmx.de
         </section>
       </div>
-      <div class="w-full md:w-1/2 md:px-8 md:py-0 py-10">
+      <div class="w-full py-10 md:w-1/2 md:px-8 md:py-0">
         <!-- Kontakt Form -->
         <form
           name="contactform"
@@ -38,7 +38,7 @@
               name="name"
               v-model="name"
               required
-              class="title bg-gray-100 border border-gray-300 p-2 mb-4 outline-none w-full"
+              class="title border outline-none mb-4 w-full border-gray-300 bg-gray-100 p-2"
               placeholder="Ihr Name"
             />
           </div>
@@ -50,7 +50,7 @@
               name="email"
               v-model="email"
               required
-              class="title bg-gray-100 border border-gray-300 p-2 mb-4 outline-none w-full"
+              class="title border outline-none mb-4 w-full border-gray-300 bg-gray-100 p-2"
               placeholder="Ihre e-Mail"
             />
           </div>
@@ -60,14 +60,14 @@
               name="message"
               v-model="message"
               required
-              class="title bg-gray-100 border border-gray-300 p-2 mb-4 outline-none w-full"
+              class="title border outline-none mb-4 w-full border-gray-300 bg-gray-100 p-2"
               placeholder="Ihre Nachricht"
             ></textarea>
           </div>
           <button
             type="submit"
             value="Send message"
-            class="btn border bg-red-700 hover:bg-red-600 text-white font-bold p-1 px-4 font-semibold cursor-pointer rounded"
+            class="btn border rounded cursor-pointer bg-red-700 p-1 px-4 font-bold font-semibold text-white hover:bg-red-600"
           >
             Absenden
           </button>
@@ -82,7 +82,7 @@ import Headline from "@/components/elements/Headline.vue";
 
 export default {
   components: {
-    Headline
+    Headline,
   },
   data() {
     return {
@@ -91,7 +91,7 @@ export default {
         "Senden Sie eine Nachricht über das beigefügte Kontaktfeld oder wählen Sie eine der gelisteten Kontaktmöglichkeiten.",
       name: "",
       email: "",
-      message: ""
+      message: "",
     };
   },
   methods: {
@@ -110,20 +110,20 @@ export default {
         "form-name": "contactform",
         name: this.name,
         email: this.email,
-        message: this.message
+        message: this.message,
       };
       // This POSTs your encoded form to Netlify with the required headers (for text; headers will be different for POSTing a file) and, on success, redirects to the custom success page located at pages/thanks.vue
       fetch("/", {
         method: "POST",
         headers: { "Content-Type": "application/x-www-form-urlencoded" },
-        body: new URLSearchParams(this.createFormDataObj(data)).toString()
+        body: new URLSearchParams(this.createFormDataObj(data)).toString(),
       })
         // This is how we route to /thanks on successful form submission
         // More on $router.push function: https://router.vuejs.org/guide/essentials/navigation.html
         .then(() => this.$router.push("bestaetigung"))
-        .catch(error => alert(error));
-    }
-  }
+        .catch((error) => alert(error));
+    },
+  },
 };
 </script>
 
