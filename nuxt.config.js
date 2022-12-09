@@ -4,7 +4,7 @@ export default {
    */
   head: {
     htmlAttrs: {
-      lang: "de"
+      lang: "de",
     },
     title: process.env.npm_package_name || "",
     meta: [
@@ -13,19 +13,18 @@ export default {
       {
         hid: "description",
         name: "description",
-        content: process.env.npm_package_description || ""
+        content: process.env.npm_package_description || "",
       },
-      { hid: "keyword", name: "keyword", content: "Finanzberatung" }
+      { hid: "keyword", name: "keyword", content: "Finanzberatung" },
     ],
     link: [
       { rel: "icon", type: "image/x-icon", href: "/favicon.png" },
       {
         rel: "stylesheet",
-        href:
-          "https://fonts.googleapis.com/css2?family=Inter:wght@100;400;500;700&display=swap"
-      }
+        href: "https://fonts.googleapis.com/css2?family=Inter:wght@100;400;500;700&display=swap",
+      },
     ],
-    script: [{ src: "/widget.js", body: true }]
+    // script: [{ src: "/widget.js", body: true }]
   },
 
   /*
@@ -45,7 +44,7 @@ export default {
    */
   buildModules: [
     // Doc: https://github.com/nuxt-community/nuxt-tailwindcss
-    "@nuxtjs/tailwindcss"
+    "@nuxtjs/tailwindcss",
   ],
   /*
    ** Nuxt.js modules
@@ -58,6 +57,6 @@ export default {
     /*
      ** You can extend webpack config here
      */
-    extend(config, ctx) {}
-  }
+    extend(config, ctx) {},
+  },
 };

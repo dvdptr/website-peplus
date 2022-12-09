@@ -26,19 +26,15 @@
     </section>
     <section class="py-4">
       <!-- ProvenExpert Bewertungssiegel -->
-      <a
-        href="https://www.provenexpert.com/finanzberatung-plus/?utm_source=Widget&amp;utm_medium=Widget&amp;utm_campaign=Widget"
-        title="Kundenbewertungen &amp; Erfahrungen zu Finanzberatung PLUS. Mehr Infos anzeigen."
-        target="_blank"
+      <span
+        id="provenexpert_circle_widget_qnphv"
         style="text-decoration: none"
-        rel="noopener noreferrer"
-        ><img
-          src="https://images.provenexpert.com/3a/81/5a81c4561f633d5d5cee78f4982c/widget_portrait_180_de_0.png"
-          alt="Erfahrungen &amp; Bewertungen zu Finanzberatung PLUS"
-          width="180"
-          height="216"
-          style="border: 0"
-      /></a>
+      ></span>
+      <script
+        type="text/javascript"
+        async
+        src="https://www.provenexpert.com/widget/circlewidget.js?s=150&id=qnphv&u=2RQAiSQpiuwolAKp082A0Hmo1HGZjHGB"
+      ></script>
       <!-- ProvenExpert Bewertungssiegel -->
     </section>
   </div>

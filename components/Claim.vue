@@ -26,23 +26,25 @@
         </p>
       </section>
     </div>
-
-    <div class="mx-auto w-11/12 items-center pt-12 md:w-3/4 md:pt-16">
-      <a
-        href="https://www.provenexpert.com/finanzberatung-plus/?utm_source=Widget&utm_medium=Widget&utm_campaign=Widget"
-        title="Kundenbewertungen &amp; Erfahrungen zu Finanzberatung PLUS. Mehr Infos anzeigen."
-        target="_blank"
-        rel="noopener noreferrer"
-        ><img
-          class="mx-auto"
-          src="https://images.provenexpert.com/3a/81/5a81c4561f633d5d5cee78f4982c/widget_recommendation_465_0.png?t=1649667712218"
-          alt="Kundenbewertungen &amp; Erfahrungen zu Finanzberatung PLUS. Mehr Infos anzeigen."
-      /></a>
-    </div>
-
-    <div class="mx-auto w-11/12 pt-12 md:w-1/2 md:pt-16">
+    <!-- <div class="mx-auto w-11/12 pt-12 md:w-1/2 md:pt-16">
       <div id="gufb_widget_script"></div>
       <div id="gufb_widget_content"></div>
+    </div> -->
+    <div class="mx-auto items-center pt-12 md:w-3/4 md:pt-16">
+      <!-- ProvenExpert Bewertungssiegel -->
+      <div id="pewl"></div>
+      <script
+        type="text/javascript"
+        src="https://www.provenexpert.com/widget/landing_finanzberatung-plus.js?feedback=1&avatar=1&competence=1&style=white"
+        async
+      ></script>
+      <link
+        rel="stylesheet"
+        type="text/css"
+        href="https://www.provenexpert.com/css/widget_landing.css"
+        media="screen,print"
+      />
+      <!-- ProvenExpert Bewertungssiegel Ende -->
     </div>
   </div>
 </template>
