@@ -2,7 +2,7 @@
   <div
     class="border-b mx-auto w-11/12 border-gray-400 text-lg md:w-10/12 md:max-w-screen-xl md:py-16"
   >
-    <section class="mx-auto w-5/6 justify-center">
+    <section class="mx-auto justify-center">
       <div>
         <Headline :title="title" :subtitle="subtitle" />
       </div>
