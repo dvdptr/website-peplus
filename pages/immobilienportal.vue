@@ -35,7 +35,7 @@ export default {
     return {
       title: "Immobilienportal",
       subtitle:
-        "Sie suchen noch nach einer passenden Immobilie? Dann haben wir etwas für Sie. Ab sofort suchen wir für Sie aktiv nach Immobilien. Ganz einfach für Sie. Ganz entspannt.",
+        "Sie suchen noch nach einer passenden Immobilie? Dann haben wir etwas für Sie. Ganz einfach für Sie. Ganz entspannt.",
       vorteileVideoberatung: [
         {
           text: "Wohnort unabhängig",

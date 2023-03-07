@@ -2,7 +2,7 @@
   <div
     class="border-b pylg mx-auto w-full border-gray-400 text-lg md:w-10/12 md:max-w-screen-xl"
   >
-    <div class="sm:flex sm:pb-16">
+    <div class="border-b border-gray-400 sm:flex sm:pb-16">
       <div class="mx-auto w-11/12 px-12 sm:w-1/2 sm:px-40">
         <section>
           <div class=" ">
@@ -29,40 +29,48 @@
       >
         <p>
           <span class="text-xl font-bold"
-            >Ab sofort der neue Immobilien-Service - ohne Mehraufwand:</span
+            >Ab sofort der neue Immobilien-Service: <br />
+            Wir suchen für Sie nach Immobilien - ohne Mehraufwand!</span
           >
 
           <br /><br />
           Mit unserer Suche bieten wir Ihnen die größte Marktabdeckung in
           Deutschland mit Immobilien von 48 Zeitungen, Kleinanzeigenbörsen und
-          Immobilien-Portalen. Im Schnitt finden Sie mit unseren Suchaufträgen
-          4x schneller eine Immobilie als mit Vergleichslösungen. Für aktuell
-          über 220.000 online inserierte Wohnungen und Häuser wird automatisch
-          der Marktwert nach Bankenstandard von Sprengnetter berechnet. Dadurch
-          erhalten Sie mehr Sicherheit bei Ihrer Kaufentscheidung und fairere
-          Preise. <br /><br />Darüber hinaus können Sie den Standort analysieren
-          und ausschließlich Immobilien anzeigen lassen, die optimal an Schulen,
-          Kitas, Supermärkte und ÖPNV angebunden sind. Falls Sie Fragen zu
-          unserem neuen Angebot haben, kommen Sie gerne auf mich zu.
-          <br /><br />
-          Sie möchten sich für den neuen Immobilienservice mit unserem Partner
-          ImmoThink kostenfrei anmelden? Senden Sie mir ganz einfach eine eMail
-          und ich nehme unverzüglich Kontakt zu Ihnen auf.
-          <br /><br />
-
-          <button
-            class="rounded shadow bg-red-700 py-2 px-4 font-bold text-white hover:bg-red-600"
+          Immobilien-Portalen.
+          <span class="rounded bg-red-200 underline">
+            Im Schnitt finden Sie mit unseren Suchaufträgen 4x schneller eine
+            Immobilie als mit Vergleichslösungen.</span
           >
-            <a href="mailto:peterebner@gmx.de" target="_blank"
-              >Anmeldung Immobilienservice</a
-            >
-          </button>
+          Für aktuell über 220.000 online inserierte Wohnungen und Häuser wird
+          automatisch der Marktwert nach Bankenstandard von Sprengnetter
+          berechnet. Dadurch erhalten Sie mehr Sicherheit bei Ihrer
+          Kaufentscheidung und fairere Preise. <br /><br />Darüber hinaus können
+          Sie den Standort analysieren und ausschließlich Immobilien anzeigen
+          lassen, die optimal an Schulen, Kitas, Supermärkte und ÖPNV angebunden
+          sind. Falls Sie Fragen zu unserem neuen Angebot haben, kommen Sie
+          gerne auf mich zu. <br /><br />
         </p>
+        <span class="rounded font-bold underline">
+          Wie kann ich den kostenlosen Immobilienservice nutzen? </span
+        ><br />
+        <br />
+        Sie möchten sich für den neuen Immobilienservice mit unserem Partner
+        ImmoThink kostenfrei anmelden? Geben Sie ganz einfach Ihre gewünschten
+        Eckdaten zur Suche in das untenstehende Formular ein und lassen Sie sich
+        über neue Inserate informieren.
       </div>
+    </div>
+    <div class="mx-auto w-11/12 py-12 sm:w-1/2">
+      <iframe
+        scrolling="no"
+        frameborder="0"
+        src="https://connect.thinkimmo.com/business/widgets/customer_onboarding/welcome?aTokenWidget=ce37b062-756b-11ed-971b-2772daa22ec7"
+        style="height: 860px; width: 100%"
+      ></iframe>
     </div>
     <!-- Leistungen Loop -->
     <div
-      class="mx-auto flex w-11/12 flex-wrap items-center justify-center sm:w-full"
+      class="border-t mx-auto flex w-11/12 flex-wrap items-center justify-center border-gray-400 pt-16 sm:w-full"
     >
       <div
         class="mx-2 mb-3 w-full items-center rounded-xl bg-red-100 p-2 sm:w-1/4"
