@@ -61,6 +61,15 @@
       </div>
     </div>
     <div class="mx-auto w-11/12 py-12 sm:w-1/2">
+      <section class="mx-auto text-center">
+        <p class="pb-4 text-2xl font-bold leading-snug sm:pb-0">
+          Das Formular zur Immobiliensuche
+        </p>
+        <p class="text-base leading-snug text-gray-700">
+          Tragen Sie hier Ihre gewünschten Daten zur Filtersuche ein und Sie
+          erhalten maßgeschneiderte Inserate konstenlos per eMail.
+        </p>
+      </section>
       <iframe
         scrolling="no"
         frameborder="0"
