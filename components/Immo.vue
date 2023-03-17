@@ -66,8 +66,8 @@
           Das Formular zur Immobiliensuche
         </p>
         <p class="text-base leading-snug text-gray-700">
-          Tragen Sie hier Ihre gewünschten Daten zur Filtersuche ein und Sie
-          erhalten maßgeschneiderte Inserate konstenlos per eMail.
+          Tragen Sie nachfolgend Ihre gewünschten Daten zur Filtersuche ein und
+          Sie erhalten maßgeschneiderte Inserate kostenlos per eMail.
         </p>
       </section>
       <iframe
