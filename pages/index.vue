@@ -3,6 +3,7 @@
     <Header />
     <Hero />
     <About />
+    <ClaimImmoService />
     <Claim />
     <Leistungen />
     <Netzwerk />
@@ -14,6 +15,7 @@
 <script>
 import Header from "~/components/Header.vue";
 import Hero from "~/components/Hero.vue";
+import ClaimImmoService from "~/components/ClaimImmoService.vue";
 import About from "~/components/About.vue";
 import Claim from "~/components/Claim.vue";
 import Netzwerk from "~/components/Netzwerk.vue";
@@ -25,6 +27,7 @@ export default {
   components: {
     Header,
     Hero,
+    ClaimImmoService,
     About,
     Claim,
     Netzwerk,

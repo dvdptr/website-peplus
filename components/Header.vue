@@ -1,5 +1,10 @@
 <template>
-  <div id="header" class="border-t-4 border-red-700 py-2">
+  <div id="header" class="">
+    <div class="bg-red-700">
+      <p class="mx-auto text-center text-xs font-bold text-white">
+        JETZT NEU FÜR SIE: Der kostenlose Immobilienservice!
+      </p>
+    </div>
     <!-- Header NavBar total -->
     <div
       class="md:border-b mx-auto w-11/12 border-gray-400 pb-2 pt-2 md:w-10/12 md:max-w-screen-xl"

@@ -30,7 +30,7 @@
         <p>
           <span class="text-xl font-bold"
             >Ab sofort der neue Immobilien-Service: <br />
-            Wir suchen für Sie nach Immobilien - ohne Mehraufwand!</span
+            Wir suchen für Sie kostenlos nach Immobilien!</span
           >
 
           <br /><br />
