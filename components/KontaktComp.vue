@@ -2,12 +2,9 @@
   <div
     class="border-b mx-auto w-11/12 border-gray-400 text-lg md:w-10/12 md:max-w-screen-xl md:py-16"
   >
-    <section class="mx-auto justify-center">
-      <div>
-        <Headline :title="title" :subtitle="subtitle" />
-      </div>
-    </section>
-    <div class="justify-center md:flex">
+    <Headline :title="title" :subtitle="subtitle" />
+
+    <div class="justify-center pt-12 md:flex">
       <div class="mx-auto block w-full md:w-1/2 md:px-8">
         <section class="py-4">
           <p class="pb-1 font-bold">Home-Office</p>

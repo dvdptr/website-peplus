@@ -2,14 +2,10 @@
   <div
     class="border-b pylg mx-auto w-full border-gray-400 text-lg md:w-10/12 md:max-w-screen-xl"
   >
-    <section>
-      <div>
-        <Headline :title="title" :subtitle="subtitle" />
-      </div>
-    </section>
+    <Headline :title="title" :subtitle="subtitle" />
 
     <!-- Leistungen Loop -->
-    <div class="flex flex-wrap justify-center">
+    <div class="flex flex-wrap justify-center pt-12">
       <div
         class="border mx-4 mb-3 w-full rounded-sm border-gray-500 p-4 md:w-5/12"
         v-for="(leistung, index) in leistungenOverview"
