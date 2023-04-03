@@ -64,7 +64,7 @@
         gerne zur Verfügung.
       </p>
       <h2>Zusammenfassung der Vorteile einer Videoberatung</h2>
-      <ul class="list-disc">
+      <ul class="list-disc pl-4">
         <li>Flexible Beratungstermine</li>
         <li>Bequem von Zuhause aus</li>
         <li>Für Sie kostenfrei</li>
