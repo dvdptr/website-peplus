@@ -1,8 +1,6 @@
 <template>
-  <div>
-    <article
-      class="border-b pylg mx-auto w-11/12 border-gray-400 sm:w-3/4 md:max-w-screen-xl"
-    >
+  <div class="border-b pylg mx-auto w-11/12 border-gray-400 sm:max-w-screen-xl">
+    <article class="mx-auto sm:w-3/4">
       <p>
         Die Welt der Finanzberatung hat sich in den letzten Jahren stark
         verändert. Dank der Digitalisierung und dem technologischen Fortschritt
@@ -13,13 +11,14 @@
         ermöglichen. In diesem Artikel zeigen wir Ihnen, wie Sie von der
         Videoberatung profitieren können.
       </p>
-      <div class="mx-auto w-full py-8 md:w-1/2">
+      <div>
         <img
           src="@/assets/img/videoberatung-DE.png"
-          alt="Grafik einer Deutschlandkarte und Fenster einer Videoberatung"
-          class="mx-auto"
+          alt="Grafik einer
+        Deutschlandkarte und Fenster einer Videoberatung"
+          class="mx-auto w-full pt-12 md:w-1/3"
         />
-        <p class="py-4 text-sm text-gray-600">
+        <p class="py-4 text-center text-sm text-gray-600">
           Deutschlandweite Beratung dank moderner Videoberatung
         </p>
       </div>
@@ -43,7 +42,7 @@
         teilzunehmen. Alles, was Sie benötigen, ist ein Gerät mit Internetzugang
         und einem Browser.
       </p>
-      <h2>Flexible Beratungstermine und persönlicher Kontakt auf Augenhöhe</h2>
+      <h2>Flexible Beratungstermine und persönlicher Kontakt</h2>
       <p>
         Die Videoberatung bietet Ihnen mehr Flexibilität bei der Terminplanung.
         So können wir uns auch außerhalb der regulären Öffnungszeiten um Ihre
@@ -77,9 +76,9 @@
         Mit der Videoberatung haben Sie die Möglichkeit, Ihre
         Immobilienfinanzierung bequem und unkompliziert von Zuhause aus zu
         planen. Wir bieten Ihnen flexible Beratungstermine und eine persönliche
-        Beratung auf Augenhöhe. Zudem erklären wir Ihnen alle komplizierten
-        Vorgänge einfach und verständlich. Testen Sie unseren neuen Service –
-        wir sind gerne für Sie da.
+        Beratung. Zudem erklären wir Ihnen alle komplizierten Vorgänge einfach
+        und verständlich. Testen Sie unseren neuen Service – wir sind gerne für
+        Sie da.
       </p>
     </article>
   </div>

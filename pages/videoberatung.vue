@@ -2,7 +2,10 @@
   <div class="font-medium">
     <Header />
     <div class="spacing border-b border-gray-400 py-12">
-      <Headline :title="title" :subtitle="subtitle" />
+      <div class="mx-auto">
+        <Headline :title="title" :subtitle="subtitle" />
+      </div>
+
       <Videoberatung />
       <Kontakt />
       <Footer />

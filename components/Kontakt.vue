@@ -4,9 +4,7 @@
   >
     <div class="mx-auto flex items-center text-center">
       <div class="mx-auto w-11/12 items-center text-center md:w-5/12">
-        <section class="pb-2 text-3xl font-bold md:text-4xl">
-          Sie haben Fragen?
-        </section>
+        <h1>Sie haben Fragen?</h1>
         <section class="text-normal pb-6 text-gray-700">
           Gerne berate ich Sie in einem persönlichen Gespräch. Nehmen Sie ganz
           unverbindlich Kontakt zu mir auf, ich freue mich von Ihnen zu hören!

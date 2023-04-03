@@ -54,7 +54,11 @@ export default {
 </script>
 
 <style>
+h1 {
+  @apply mx-auto text-center text-3xl font-bold;
+}
+
 h2 {
-  @apply py-8 text-xl font-bold;
+  @apply py-8 text-lg font-bold;
 }
 </style>
