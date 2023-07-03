@@ -47,7 +47,7 @@
               class="border-b mt-4 block border-gray-300 px-2 py-2 pb-2 hover:text-gray-900 md:border-none md:pb-0 lg:mt-0 lg:inline-block"
               to="/immobilienportal"
               >Immobilienportal
-              <span class="rounded bg-red-600 p-1 text-xs text-white"
+              <span class="rounded bg-red-700 p-1 text-xs text-white"
                 >NEU!</span
               ></nuxt-link
             >

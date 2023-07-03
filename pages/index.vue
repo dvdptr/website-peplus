@@ -3,6 +3,7 @@
     <Header />
     <Hero />
     <About />
+    <Bewertungen />
     <ClaimImmoService />
     <Claim />
     <Leistungen />
@@ -17,6 +18,7 @@ import Header from "~/components/Header.vue";
 import Hero from "~/components/Hero.vue";
 import ClaimImmoService from "~/components/ClaimImmoService.vue";
 import About from "~/components/About.vue";
+import Bewertungen from "~/components/Bewertungen.vue";
 import Claim from "~/components/Claim.vue";
 import Netzwerk from "~/components/Netzwerk.vue";
 import Kontakt from "~/components/Kontakt.vue";
@@ -28,6 +30,7 @@ export default {
     Header,
     Hero,
     ClaimImmoService,
+    Bewertungen,
     About,
     Claim,
     Netzwerk,
