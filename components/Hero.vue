@@ -87,15 +87,15 @@ export default {
       leistungenOverview: [
         {
           iconUrl: require("@/assets/svg/ok.svg"),
-          headline: "Baufinanzierung & Zinsoptimierung",
-        },
-        {
-          iconUrl: require("@/assets/svg/ok.svg"),
-          headline: "Privatkredite & Anschlussfinanzierung",
+          headline: "Baufinanzierung & Anschlussfinanzierung",
         },
         {
           iconUrl: require("@/assets/svg/ok.svg"),
           headline: "Finanzieren ohne Eigenkapital",
+        },
+        {
+          iconUrl: require("@/assets/svg/ok.svg"),
+          headline: "Privatkredite & Zinsoptimierung",
         },
       ],
     };
