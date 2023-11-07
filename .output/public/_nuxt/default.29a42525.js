@@ -1,0 +1,1 @@
+import{_ as t,n,c as o,b as _,o as c}from"./entry.73d698b4.js";const s={},a={class:"mx-auto"};function r(l,u){const e=n("nuxt");return c(),o("div",a,[_(e)])}const f=t(s,[["render",r]]);export{f as default};

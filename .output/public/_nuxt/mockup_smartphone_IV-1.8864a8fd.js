@@ -1,0 +1,1 @@
+import"./entry.73d698b4.js";const p=""+new URL("mockup_smartphone_IV-1.c3a9113f.webp",import.meta.url).href,r=""+new URL("mockup_smartphone_IV-1.bf4c0c3d.jpg",import.meta.url).href;export{r as _,p as a};
