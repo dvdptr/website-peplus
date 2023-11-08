@@ -54,9 +54,8 @@ export default {
       script: [
         {
           src: "https://cdn.usefathom.com/script.js",
-          data: {
-            site: "JRCVEPRD",
-          },
+          "data-site": "JRCVEPRD",
+          "data-spa": "auto",
           defer: true,
         },
       ],
