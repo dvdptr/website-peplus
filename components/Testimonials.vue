@@ -60,6 +60,16 @@ export default {
         "Die Zufriedenheit meiner Kunden steht an oberster Stelle. Ich nehme mir Zeit, ihre individuellen Bedürfnisse und Ziele zu verstehen, um ihnen die bestmögliche Beratung zu bieten. Lesen Sie hier eine Auswahl meiner Bewertungen.",
       leistungenLeft: [
         {
+          text: "Durch den Makler bin ich auf Herrn Ebner aufmerksam geworden. Von dem ersten Gespräch an, war mir Herr Ebner sehr sympathisch. Er ist jederzeit erreichbar und es besteht sogar die Möglichkeit nach Absprache Termine nach 20 Uhr zu vereinbaren, dies ist nicht selbstverständlich. Ich fühle mich bei Herrn Ebner sehr gut aufgehoben, er kümmert sich um alles und steht einem immer zur Seite. Herr Ebner kann ich mit zu 100% weiterempfehlen.",
+          name: "09.10.2023, M.R.",
+          rating: "★★★★★",
+        },
+        {
+          text: "Herr Ebner ist extrem zuverlässig und hat mich in allen Belangen sehr gut unterstützt. Die Beratung war sehr professionell, er hat aber darüber hinaus auch ein offenes Ohr und kann sehr gut auf die Unsicherheiten seiner Kunden eingehen und ihnen diese nehmen. Ich bin rundum zufrieden!",
+          name: "28.09.2023, Frau Rogo",
+          rating: "★★★★★",
+        },
+        {
           text: "Zunächst einmal herzlichen Dank an Herrn Ebner und seinen Mitarbeiter Herrn Schuster! Wir kannten Herrn Ebner bereits aus früheren Zeiten als angestellten Berater. Als wir erfuhren, dass er nun mit Finanzberatung PLUS selbstständig ist, war für uns klar, dass wir wieder zu ihm möchten! Und auch dieses Mal fühlten und fühlen uns immernoch in den besten Händen. Herr Ebner nimmt sich Zeit für die Beratung und steht bei allen Anliegen und Fragen mit Rat und Tat zur Seite. Man wird allumfassend beraten und unterstützt. Die Kommunikation mit Banken, die Beantragung etc. übernimmt Herr Ebner und wenn es notwendig ist, auch mit dem nötigen Nachdruck. :-) Selbst nach Auszahlung des Kredites steht Herr Ebner jederzeit zur Verfügung, kümmert sich um weitere Auszahlungen etc. Hier steht der Kunde absolut im Mittelpunkt! Wir hoffen, dass Herr Ebner uns noch lange als Berater zur Seite steht und können die Finanzberatung PLUS nur jedem ans Herz legen, der sich bei Finanz- und Kreditfragen gut aufgehoben und ernst genommen fühlen möchte! Vielen lieben Dank",
           name: "15.06.2023, Andre & Jasmin",
           rating: "★★★★★",
@@ -69,13 +79,13 @@ export default {
           name: "15.05.2023, Frau Und Herr Chalil",
           rating: "★★★★★",
         },
+      ],
+      leistungenRight: [
         {
           text: "Beratung mit Herrn Ebner war 1A. Dies schon zum wiederholten Male. Finanzierungsabwicklung schnell und problemlos, jederzeit erreichbar. So wünscht man sich eine Finanzberatung. Abschluss absolut zu meiner Zufriedenheit. Kann ich nur empfehlen und würde dies wieder in Anspruch nehmen. Für mich gäb es keine Alternantive.",
           name: "14.10.2022, Herr Glaubitz",
           rating: "★★★★★",
         },
-      ],
-      leistungenRight: [
         {
           text: "Absolut empfehlenswert. Super schnell, unglaublich kompetent, sehr engagiert. Der Kunde steht immer im Fokus. Danke!",
           name: "17.08.2022, Frau Bemsz-Jakubowska & Herr Jakubowski",
