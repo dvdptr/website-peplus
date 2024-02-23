@@ -43,6 +43,19 @@
         </div>
       </section>
     </div>
+    <div class="flex">
+      <div class="mx-auto">
+        <button
+          class="border rounded shadow ml-3 mt-10 border-gray-400 bg-white py-2 px-4 font-semibold text-gray-800 hover:bg-red-100"
+        >
+          <a
+            href="https://www.provenexpert.com/finanzberatung-plus/"
+            target="_blank"
+            >Alle Bewertungen ansehen</a
+          >
+        </button>
+      </div>
+    </div>
   </div>
 </template>
 
@@ -77,11 +90,6 @@ export default {
         {
           text: "Zunächst einmal herzlichen Dank an Herrn Ebner und seinen Mitarbeiter Herrn Schuster! Wir kannten Herrn Ebner bereits aus früheren Zeiten als angestellten Berater. Als wir erfuhren, dass er nun mit Finanzberatung PLUS selbstständig ist, war für uns klar, dass wir wieder zu ihm möchten! Und auch dieses Mal fühlten und fühlen uns immernoch in den besten Händen. Herr Ebner nimmt sich Zeit für die Beratung und steht bei allen Anliegen und Fragen mit Rat und Tat zur Seite. Man wird allumfassend beraten und unterstützt. Die Kommunikation mit Banken, die Beantragung etc. übernimmt Herr Ebner und wenn es notwendig ist, auch mit dem nötigen Nachdruck. :-) Selbst nach Auszahlung des Kredites steht Herr Ebner jederzeit zur Verfügung, kümmert sich um weitere Auszahlungen etc. Hier steht der Kunde absolut im Mittelpunkt! Wir hoffen, dass Herr Ebner uns noch lange als Berater zur Seite steht und können die Finanzberatung PLUS nur jedem ans Herz legen, der sich bei Finanz- und Kreditfragen gut aufgehoben und ernst genommen fühlen möchte! Vielen lieben Dank",
           name: "15.06.2023, Andre & Jasmin",
-          rating: "★★★★★",
-        },
-        {
-          text: "Wir haben Herrn Ebner selbst von einem Freund empfohlen bekommen. TOP!! Ein sehr sympathischer Mensch! Wir sind mehr als zufrieden. Wir können Ihn auch nur weiterempfehlen. Finanzierungsablauf schnell und problemos. Man kann Ihn jederzeit erreichen und auch mehrmals nachfragen wenn man etwas nicht verstanden hat. Vielen Dank für Ihre Zeit, Geduld und Mühe",
-          name: "15.05.2023, Frau Und Herr Chalil",
           rating: "★★★★★",
         },
       ],
