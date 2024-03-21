@@ -73,10 +73,11 @@ export default {
         "Die Zufriedenheit meiner Kunden steht an oberster Stelle. Ich nehme mir Zeit, ihre individuellen Bedürfnisse und Ziele zu verstehen, um ihnen die bestmögliche Beratung zu bieten. Lesen Sie hier eine Auswahl meiner Bewertungen.",
       leistungenLeft: [
         {
-          text: "Ich möchte meine aufrichtige Dankbarkeit für die hervorragende Finanzberatung zum Ausdruck bringen, die ich erhalten habe. Die professionelle Herangehensweise, kombiniert mit tiefgreifendem Fachwissen und einem echten Interesse an meinen finanziellen Zielen, hat mich beeindruckt. Durch klare Erklärungen und individuelle Empfehlungen fühle ich mich sicherer in meinen finanziellen Entscheidungen. Ich kann diese Finanzberatung jedem empfehlen, der nach einer vertrauenswürdigen Beratung sucht.",
-          name: "13.02.2024, Eiad Almohammad",
+          text: "Peter Ebner und sein Team von Finanzberatung Plus haben einen bemerkenswerten Beitrag geleistet, indem sie einem unserer Kunden den Weg in sein Eigenheim geebnet haben. Ihre professionelle Beratung und ihr tiefgreifendes Verständnis des Marktes haben es dem Kunden ermöglicht, kluge finanzielle Entscheidungen zu treffen und seinen Traum vom Eigenheim zu verwirklichen. Ihre engagierte Unterstützung und ihr Fachwissen verdienen höchste Anerkennung. Ich kann Peter Ebner uneingeschränkt empfehlen für alle, die eine vertrauenswürdige und kompetente Finanzberatung suchen!",
+          name: "19.03.2024, Christian Enders / Enders & Partner Immobilien",
           rating: "★★★★★",
         },
+
         {
           text: "Durch den Makler bin ich auf Herrn Ebner aufmerksam geworden. Von dem ersten Gespräch an, war mir Herr Ebner sehr sympathisch. Er ist jederzeit erreichbar und es besteht sogar die Möglichkeit nach Absprache Termine nach 20 Uhr zu vereinbaren, dies ist nicht selbstverständlich. Ich fühle mich bei Herrn Ebner sehr gut aufgehoben, er kümmert sich um alles und steht einem immer zur Seite. Herr Ebner kann ich mit zu 100% weiterempfehlen.",
           name: "09.10.2023, M.R.",
