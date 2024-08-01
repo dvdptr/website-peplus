@@ -73,6 +73,11 @@ export default {
         "Die Zufriedenheit meiner Kunden steht an oberster Stelle. Ich nehme mir Zeit, ihre individuellen Bedürfnisse und Ziele zu verstehen, um ihnen die bestmögliche Beratung zu bieten. Lesen Sie hier eine Auswahl meiner Bewertungen.",
       leistungenLeft: [
         {
+          text: "wir sind mehr als Zufrieden mit der Beratung von Herrn Ebner.Er hat sich unglaublich viel Zeit für uns genommen und war jeder Zeit ansprechbar und hat uns bestmöglich beraten. Ich Danke Herrn Ebner für sein außerordentliches Engagement und großartige Unterstützung.",
+          name: "20.07.2024, E. Besirli",
+          rating: "★★★★★",
+        },
+        {
           text: "Nach langem hin und her und nachdem uns ein haus vor der Nase weg gekauft wurde , hat Herr ebner nicht aufgeben und weiter gesucht. Nach ein paar Monaten hat er ein haus gefunden was wir auch gekauft haben. Auch wenn es Probleme gab hat er einen ermutigt und weiter gemacht. Er war /ist egal wann immer hilfsbereit und erreichbar. Wenn auch fragen offen waren hat er sich die Zeit genommen und hat einem jede Frage beantwortet. Sehr gute Zusammenarbeit auch wenn es schwer war, gut kann auch an mir gelegen haben. Er war offen und ehrlich wenn was war. Nach 7 Monaten haben wir unser traumhaus gefunden. Ich würde jedem ihn empfehlen. Vielen vielen dank Herr Ebner",
           name: "11.07.2024, Familie Beringer",
           rating: "★★★★★",
@@ -88,11 +93,6 @@ export default {
           rating: "★★★★★",
         },
 
-        {
-          text: "Durch den Makler bin ich auf Herrn Ebner aufmerksam geworden. Von dem ersten Gespräch an, war mir Herr Ebner sehr sympathisch. Er ist jederzeit erreichbar und es besteht sogar die Möglichkeit nach Absprache Termine nach 20 Uhr zu vereinbaren, dies ist nicht selbstverständlich. Ich fühle mich bei Herrn Ebner sehr gut aufgehoben, er kümmert sich um alles und steht einem immer zur Seite. Herr Ebner kann ich mit zu 100% weiterempfehlen.",
-          name: "09.10.2023, M.R.",
-          rating: "★★★★★",
-        },
         {
           text: "Herr Ebner ist extrem zuverlässig und hat mich in allen Belangen sehr gut unterstützt. Die Beratung war sehr professionell, er hat aber darüber hinaus auch ein offenes Ohr und kann sehr gut auf die Unsicherheiten seiner Kunden eingehen und ihnen diese nehmen. Ich bin rundum zufrieden!",
           name: "28.09.2023, Frau Rogo",
