@@ -73,15 +73,21 @@ export default {
         "Die Zufriedenheit meiner Kunden steht an oberster Stelle. Ich nehme mir Zeit, ihre individuellen Bedürfnisse und Ziele zu verstehen, um ihnen die bestmögliche Beratung zu bieten. Lesen Sie hier eine Auswahl meiner Bewertungen.",
       leistungenLeft: [
         {
+          text: "Herr Ebner hat uns vom ersten Moment der Kaufinteresse durch alle Phasen hinweg begleitet und stand zu jeder Zeit beratend und unterstützend zur Seite. Er sorgte stets dafür , dass alle Prozesse reibungslos abliefen. Leider kam es letzten Endes nicht zum Kauf und dennoch bekamen wir weitere Unterstützung um unsere Traumimmobilie zu finden. Wir sind rundum zufrieden und können Herr Ebner wärmstens empfehlen. Wir hoffen sehr darauf dass unsere Zusammenarbeit bald fortgesetzt wird. Vielen Dank!",
+          name: "04.03.2025, Frau Flörchinger",
+          rating: "★★★★★",
+        },
+        {
+          text: "Die Beratung und Mitarbeit mit Herr Ebner ist perfekt. Auf alle Fragen bekam ich sofort eine professionelle Antwort. Ich habe Herr Ebner schon zu zwei Personen weiterempfohlen.",
+          name: "22.02.2025, Herr Ascic",
+          rating: "★★★★★",
+        },
+        {
           text: "wir sind mehr als Zufrieden mit der Beratung von Herrn Ebner.Er hat sich unglaublich viel Zeit für uns genommen und war jeder Zeit ansprechbar und hat uns bestmöglich beraten. Ich Danke Herrn Ebner für sein außerordentliches Engagement und großartige Unterstützung.",
           name: "20.07.2024, E. Besirli",
           rating: "★★★★★",
         },
-        {
-          text: "Nach langem hin und her und nachdem uns ein haus vor der Nase weg gekauft wurde , hat Herr ebner nicht aufgeben und weiter gesucht. Nach ein paar Monaten hat er ein haus gefunden was wir auch gekauft haben. Auch wenn es Probleme gab hat er einen ermutigt und weiter gemacht. Er war /ist egal wann immer hilfsbereit und erreichbar. Wenn auch fragen offen waren hat er sich die Zeit genommen und hat einem jede Frage beantwortet. Sehr gute Zusammenarbeit auch wenn es schwer war, gut kann auch an mir gelegen haben. Er war offen und ehrlich wenn was war. Nach 7 Monaten haben wir unser traumhaus gefunden. Ich würde jedem ihn empfehlen. Vielen vielen dank Herr Ebner",
-          name: "11.07.2024, Familie Beringer",
-          rating: "★★★★★",
-        },
+
         {
           text: "Meine Frau und ich haben mit Herrn Ebner zusammengearbeitet, der immer da war, um alle unsere Fragen zu beantworten. Wir konnten ihn jederzeit anrufen. Er war immer für uns verfügbar. Er hat sichergestellt, dass wir ihn verstanden haben. Er sprach alle Wörter so aus, dass wir, die Deutsch nicht als Muttersprache haben, ihn verstehen konnten. Er hat sehr hart gearbeitet, damit wir von der Bank die Mittel erhalten, um unser Haus zu kaufen. Er nahm sich die Zeit, uns den gesamten Prozess zu erklären. Wir fühlten uns wohl, mit ihm zusammenzuarbeiten, und er ist ein so wunderbarer Mann, dass wir ihn allen empfehlen, die ein Haus kaufen möchten, insbesondere denen wie uns, die keine Erfahrung im Hauskauf haben.",
           name: "24.04.2024, Herr Tchakounte Und Frau Sonfack",
@@ -90,12 +96,6 @@ export default {
         {
           text: "Peter Ebner und sein Team von Finanzberatung Plus haben einen bemerkenswerten Beitrag geleistet, indem sie einem unserer Kunden den Weg in sein Eigenheim geebnet haben. Ihre professionelle Beratung und ihr tiefgreifendes Verständnis des Marktes haben es dem Kunden ermöglicht, kluge finanzielle Entscheidungen zu treffen und seinen Traum vom Eigenheim zu verwirklichen. Ihre engagierte Unterstützung und ihr Fachwissen verdienen höchste Anerkennung. Ich kann Peter Ebner uneingeschränkt empfehlen für alle, die eine vertrauenswürdige und kompetente Finanzberatung suchen!",
           name: "19.03.2024, Christian Enders / Enders & Partner Immobilien",
-          rating: "★★★★★",
-        },
-
-        {
-          text: "Herr Ebner ist extrem zuverlässig und hat mich in allen Belangen sehr gut unterstützt. Die Beratung war sehr professionell, er hat aber darüber hinaus auch ein offenes Ohr und kann sehr gut auf die Unsicherheiten seiner Kunden eingehen und ihnen diese nehmen. Ich bin rundum zufrieden!",
-          name: "28.09.2023, Frau Rogo",
           rating: "★★★★★",
         },
       ],
