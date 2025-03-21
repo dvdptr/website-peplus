@@ -14,7 +14,7 @@
         </section>
         <section class="py-4">
           <p class="pb-1 font-bold">Kontakt</p>
-          Mobil: 0151 12 669 832 <br />e-Mail: peterebner@gmx.de
+          Mobil: 0151 12 669 832 <br />e-Mail: info@finanzberatung-ebner.de
         </section>
       </div>
       <div class="w-full py-10 md:w-1/2 md:px-8 md:py-0">

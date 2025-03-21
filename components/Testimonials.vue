@@ -73,6 +73,11 @@ export default {
         "Die Zufriedenheit meiner Kunden steht an oberster Stelle. Ich nehme mir Zeit, ihre individuellen Bedürfnisse und Ziele zu verstehen, um ihnen die bestmögliche Beratung zu bieten. Lesen Sie hier eine Auswahl meiner Bewertungen.",
       leistungenLeft: [
         {
+          text: "Herr Ebner hat uns innerhalb 14 Tagen von der Besichtigung Zur Anfrage bis zur Kreditzusage perfekt unterstützt. Auf unseren Finanzierungswunsch ist er direkt eingegangen und hat nach unserer Vorstellung den passenden Kredit/Bank ausgesucht. Er hat sich sehr viel Zeit für uns genommen und war jeder Zeit ansprechbar und hat uns bestmöglich beraten. Vielen Dank",
+          name: "20.03.2025, Frau Eberlein",
+          rating: "★★★★★",
+        },
+        {
           text: "Herr Ebner hat uns vom ersten Moment der Kaufinteresse durch alle Phasen hinweg begleitet und stand zu jeder Zeit beratend und unterstützend zur Seite. Er sorgte stets dafür , dass alle Prozesse reibungslos abliefen. Leider kam es letzten Endes nicht zum Kauf und dennoch bekamen wir weitere Unterstützung um unsere Traumimmobilie zu finden. Wir sind rundum zufrieden und können Herr Ebner wärmstens empfehlen. Wir hoffen sehr darauf dass unsere Zusammenarbeit bald fortgesetzt wird. Vielen Dank!",
           name: "04.03.2025, Frau Flörchinger",
           rating: "★★★★★",
@@ -80,11 +85,6 @@ export default {
         {
           text: "Die Beratung und Mitarbeit mit Herr Ebner ist perfekt. Auf alle Fragen bekam ich sofort eine professionelle Antwort. Ich habe Herr Ebner schon zu zwei Personen weiterempfohlen.",
           name: "22.02.2025, Herr Ascic",
-          rating: "★★★★★",
-        },
-        {
-          text: "wir sind mehr als Zufrieden mit der Beratung von Herrn Ebner.Er hat sich unglaublich viel Zeit für uns genommen und war jeder Zeit ansprechbar und hat uns bestmöglich beraten. Ich Danke Herrn Ebner für sein außerordentliches Engagement und großartige Unterstützung.",
-          name: "20.07.2024, E. Besirli",
           rating: "★★★★★",
         },
 
