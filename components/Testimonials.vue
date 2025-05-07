@@ -73,6 +73,11 @@ export default {
         "Die Zufriedenheit meiner Kunden steht an oberster Stelle. Ich nehme mir Zeit, ihre individuellen Bedürfnisse und Ziele zu verstehen, um ihnen die bestmögliche Beratung zu bieten. Lesen Sie hier eine Auswahl meiner Bewertungen.",
       leistungenLeft: [
         {
+          text: "Einfach nur Spitze! Es wird alles gemacht was nötig ist um die Vorgänge schnellstmöglich und perfekt auf die persönlichen Bedürfnisse abgestimmt zu erledigen. Man kann jeder Zeit bei Fragen schreiben oder anrufen und es wird alles zu 100% beantwortet oder direkt erledigt. Wir sind mehr als zufrieden und ich würde Herr Ebner jeder Zeit und ohne Bedenken weiterempfehlen. 💯 von 💯 Punkten👍👌",
+          name: "05.05.2025, Herr Ritter",
+          rating: "★★★★★",
+        },
+        {
           text: "Herr Ebner hat mich hervorragend bei der Finanzierung meines Mehrfamilienhauses unterstützt. Er hat von Anfang an gefragt, worauf es mir bei der Finanzierung ankommt, und hat genau darauf Rücksicht genommen. Die Kommunikation mit dem Makler hat er direkt übernommen und mir so viele Aufgaben wie möglich abgenommen – ich musste lediglich die nötigen Dokumente einreichen und unterschreiben. Besonders schätze ich, dass er den gesamten Kaufprozess begleitet und dabei stets schnell, zuverlässig und gut erreichbar ist. Man bekommt hier nicht nur eine Finanzierung, sondern echte Dienstleistung. Absolute Empfehlung!",
           name: "02.04.2025, Anonym",
           rating: "★★★★★",
