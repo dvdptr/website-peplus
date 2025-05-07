@@ -103,13 +103,13 @@ export default {
           name: "24.04.2024, Herr Tchakounte Und Frau Sonfack",
           rating: "★★★★★",
         },
+      ],
+      leistungenRight: [
         {
           text: "Peter Ebner und sein Team von Finanzberatung Plus haben einen bemerkenswerten Beitrag geleistet, indem sie einem unserer Kunden den Weg in sein Eigenheim geebnet haben. Ihre professionelle Beratung und ihr tiefgreifendes Verständnis des Marktes haben es dem Kunden ermöglicht, kluge finanzielle Entscheidungen zu treffen und seinen Traum vom Eigenheim zu verwirklichen. Ihre engagierte Unterstützung und ihr Fachwissen verdienen höchste Anerkennung. Ich kann Peter Ebner uneingeschränkt empfehlen für alle, die eine vertrauenswürdige und kompetente Finanzberatung suchen!",
           name: "19.03.2024, Christian Enders / Enders & Partner Immobilien",
           rating: "★★★★★",
         },
-      ],
-      leistungenRight: [
         {
           text: "Zunächst einmal herzlichen Dank an Herrn Ebner und seinen Mitarbeiter Herrn Schuster! Wir kannten Herrn Ebner bereits aus früheren Zeiten als angestellten Berater. Als wir erfuhren, dass er nun mit Finanzberatung PLUS selbstständig ist, war für uns klar, dass wir wieder zu ihm möchten! Und auch dieses Mal fühlten und fühlen uns immernoch in den besten Händen. Herr Ebner nimmt sich Zeit für die Beratung und steht bei allen Anliegen und Fragen mit Rat und Tat zur Seite. Man wird allumfassend beraten und unterstützt. Die Kommunikation mit Banken, die Beantragung etc. übernimmt Herr Ebner und wenn es notwendig ist, auch mit dem nötigen Nachdruck. :-) Selbst nach Auszahlung des Kredites steht Herr Ebner jederzeit zur Verfügung, kümmert sich um weitere Auszahlungen etc. Hier steht der Kunde absolut im Mittelpunkt! Wir hoffen, dass Herr Ebner uns noch lange als Berater zur Seite steht und können die Finanzberatung PLUS nur jedem ans Herz legen, der sich bei Finanz- und Kreditfragen gut aufgehoben und ernst genommen fühlen möchte! Vielen lieben Dank",
           name: "15.06.2023, Andre & Jasmin",
