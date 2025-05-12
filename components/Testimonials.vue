@@ -74,7 +74,7 @@ export default {
       leistungenLeft: [
         {
           text: " Ich kann Herrn Ebner aus tiefster Überzeugung weiterempfehlen! Dank seiner großartigen Unterstützung habe ich erfolgreich eine Wohnung gekauft. Von Anfang an hat er sich mit außergewöhnlichem Engagement und persönlichem Einsatz für mein Anliegen stark gemacht. Herr Ebner nimmt sich Zeit, erklärt alles verständlich und ist stets erreichbar – man spürt sofort, dass ihm seine Kunden wirklich am Herzen liegen. Bei jedem Schritt hatte ich das Gefühl, bestens beraten und begleitet zu werden. Solch eine persönliche Betreuung findet man heutzutage nur noch selten. Wer einen vertrauenswürdigen, kompetenten und menschlich großartigen Finanzberater sucht, ist bei Herrn Ebner genau richtig!",
-          name: "11.05.2025, Herr Ascic",
+          name: "11.05.2025, Herr Alic",
           rating: "★★★★★",
         },
         {
