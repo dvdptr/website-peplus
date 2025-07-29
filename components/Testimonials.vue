@@ -73,6 +73,11 @@ export default {
         "Die Zufriedenheit meiner Kunden steht an oberster Stelle. Ich nehme mir Zeit, ihre individuellen Bedürfnisse und Ziele zu verstehen, um ihnen die bestmögliche Beratung zu bieten. Lesen Sie hier eine Auswahl meiner Bewertungen.",
       leistungenLeft: [
         {
+          text: "Wir möchten uns herzlich bei Herrn Peter Ebner bedanken, der uns auf dem Weg zu unserem Traumhaus großartig unterstützt hat. Er hat uns ausführlich und verständlich erklärt, wie die Immobilienfinanzierung in Deutschland funktioniert, welche Unterlagen und Voraussetzungen notwendig sind und wie viel Eigenkapital wir benötigen. Besonders beeindruckt hat uns, dass Herr Ebner uns bei jedem einzelnen Schritt begleitet und stets mit Rat und Tat zur Seite gestanden hat. Dank seiner kompetenten und ehrlichen Beratung konnten wir die für uns passende Finanzierung finden. Wir können Herrn Peter Ebner uneingeschränkt weiterempfehlen und sind sehr dankbar für seine professionelle Unterstützung.",
+          name: "27.07.2025, D. Metreveli/N.Kukava ",
+          rating: "★★★★★",
+        },
+        {
           text: " Ich kann Herrn Ebner aus tiefster Überzeugung weiterempfehlen! Dank seiner großartigen Unterstützung habe ich erfolgreich eine Wohnung gekauft. Von Anfang an hat er sich mit außergewöhnlichem Engagement und persönlichem Einsatz für mein Anliegen stark gemacht. Herr Ebner nimmt sich Zeit, erklärt alles verständlich und ist stets erreichbar – man spürt sofort, dass ihm seine Kunden wirklich am Herzen liegen. Bei jedem Schritt hatte ich das Gefühl, bestens beraten und begleitet zu werden. Solch eine persönliche Betreuung findet man heutzutage nur noch selten. Wer einen vertrauenswürdigen, kompetenten und menschlich großartigen Finanzberater sucht, ist bei Herrn Ebner genau richtig!",
           name: "11.05.2025, Herr Alic",
           rating: "★★★★★",
