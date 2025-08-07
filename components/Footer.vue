@@ -2,11 +2,11 @@
   <div
     class="border-b mx-auto w-full justify-center border-gray-400 bg-gray-700 px-4 py-8 text-sm leading-tight text-white md:flex md:px-0"
   >
-    <div class="">
+    <!-- <div class="">
       <section class="mr-12 py-4">
-        <LogoWhite class="h-10 fill-current text-white" />
+        <Logo class="h-10 fill-current text-white" />
       </section>
-    </div>
+    </div> -->
     <div class="md:flex">
       <section class="mr-12 py-4">
         <p class="pb-1 font-bold">Home-Office</p>
@@ -41,10 +41,10 @@
 </template>
 
 <script>
-import LogoWhite from "@/components/LogoWhite.vue";
+import Logo from "@/components/Logo.vue";
 export default {
   components: {
-    LogoWhite,
+    Logo,
   },
 };
 </script>
