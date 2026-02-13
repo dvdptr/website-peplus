@@ -73,6 +73,16 @@ export default {
         "Die Zufriedenheit meiner Kunden steht an oberster Stelle. Ich nehme mir Zeit, ihre individuellen Bedürfnisse und Ziele zu verstehen, um ihnen die bestmögliche Beratung zu bieten. Lesen Sie hier eine Auswahl meiner Bewertungen.",
       leistungenLeft: [
         {
+          text: "Insoweit wir über Empfehlung auf Herrn Ebner gekommen sind, so würden wir diese Empfehlung uneingeschränkt weitergeben. Von Beginn an überzeugte die Zusammenarbeit durch ein hohes Maß an Vertrauen und absolute Zuverlässigkeit. Die Beratung war fachlich fundiert, transparent und jederzeit nachvollziehbar. Besonders hervorzuheben ist der ausgeprägte Sachverstand, mit dem auch komplexe Fragen klar und lösungsorientiert beantwortet wurden, sodass wir es auch, als weitestgehend fachfremd, verstehen konnten.",
+          name: "13.02.2026, Anonym",
+          rating: "★★★★★",
+        },
+        {
+          text: "Herr Ebner ist uns mit gutem Gewissen weiterempfohlen worden, wir waren sofort positiv überrascht wie schnell Herr Ebner sich zurückgemeldet hatte und auch kurzfristig ein Termin für uns zu Verfügung hatte. Bei diesem Termin hat er mit Herzlichkeit , Fachwissen und Kompetenz schnell eine optimale Lösung zu unserem Vorhaben gefunden . Immer verlässlich und hilfsbereit in jeder Hinsicht . Wir können Herr Ebner mit bestem Gewissen weiterempfehlen und sind dankbar für seine Hilfe.",
+          name: "06.02.2026, Herr Glaubitz und Frau Fox",
+          rating: "★★★★★",
+        },
+        {
           text: "Wir möchten uns herzlich bei Herrn Peter Ebner bedanken, der uns auf dem Weg zu unserem Traumhaus großartig unterstützt hat. Er hat uns ausführlich und verständlich erklärt, wie die Immobilienfinanzierung in Deutschland funktioniert, welche Unterlagen und Voraussetzungen notwendig sind und wie viel Eigenkapital wir benötigen. Besonders beeindruckt hat uns, dass Herr Ebner uns bei jedem einzelnen Schritt begleitet und stets mit Rat und Tat zur Seite gestanden hat. Dank seiner kompetenten und ehrlichen Beratung konnten wir die für uns passende Finanzierung finden. Wir können Herrn Peter Ebner uneingeschränkt weiterempfehlen und sind sehr dankbar für seine professionelle Unterstützung.",
           name: "27.07.2025, D. Metreveli/N.Kukava ",
           rating: "★★★★★",
@@ -102,6 +112,8 @@ export default {
           name: "04.03.2025, Frau Flörchinger",
           rating: "★★★★★",
         },
+      ],
+      leistungenRight: [
         {
           text: "Die Beratung und Mitarbeit mit Herr Ebner ist perfekt. Auf alle Fragen bekam ich sofort eine professionelle Antwort. Ich habe Herr Ebner schon zu zwei Personen weiterempfohlen.",
           name: "22.02.2025, Herr Ascic",
@@ -113,8 +125,6 @@ export default {
           name: "24.04.2024, Herr Tchakounte Und Frau Sonfack",
           rating: "★★★★★",
         },
-      ],
-      leistungenRight: [
         {
           text: "Peter Ebner und sein Team von Finanzberatung Plus haben einen bemerkenswerten Beitrag geleistet, indem sie einem unserer Kunden den Weg in sein Eigenheim geebnet haben. Ihre professionelle Beratung und ihr tiefgreifendes Verständnis des Marktes haben es dem Kunden ermöglicht, kluge finanzielle Entscheidungen zu treffen und seinen Traum vom Eigenheim zu verwirklichen. Ihre engagierte Unterstützung und ihr Fachwissen verdienen höchste Anerkennung. Ich kann Peter Ebner uneingeschränkt empfehlen für alle, die eine vertrauenswürdige und kompetente Finanzberatung suchen!",
           name: "19.03.2024, Christian Enders / Enders & Partner Immobilien",
